@@ -14,15 +14,6 @@ void load_input(char *input_file) {
 	char line[255];
 
 	// Get column names and ignore them
-	fgets(line, sizeof(line), input);
-
-	char **names = read_csv_line(line);
-
-	
-	char id[12], name[100], precise_name[100], layer[10], state[10], country[10];
-
-	
-
 	
 	// Get all the lines
 
