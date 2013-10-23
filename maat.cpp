@@ -1,35 +1,29 @@
 #include <stdio.h>
 
-#define DBG_
+#define DBG
 
 #ifdef DBG 
-	#define dprintf(fmt, args...) printf(fmt, args);
+	#define dprintf(fmt_args...) printf(fmt_args);
 #else
-	#define dprintf(fmt, args...) /* nothing */
+	#define dprintf(fmt_args...) /* nothing */
 #endif
-
-char **read_csv_line(char *line) {
-	char *lp = line;
-
-	char buff[255], bp;
-
-	while (*lp) {
-		dprintf("%c\n", *lp);
-
-		++lp;
-	}
-}
 
 void load_input(char *input_file) {
 	FILE *input = fopen(input_file, "r");
 
 	char line[255];
 
-	// Get columns	
+	// Get column names and ignore them
 	fgets(line, sizeof(line), input);
-	
-	read_csv_line(line);
 
+	char **names = read_csv_line(line);
+
+	
+	char id[12], name[100], precise_name[100], layer[10], state[10], country[10];
+
+	
+
+	
 	// Get all the lines
 
 	fclose(input);
