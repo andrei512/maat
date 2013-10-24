@@ -211,6 +211,8 @@ void solve_for(char *string) {
 		}
 	}
 
+	// TO DO: sort the heap
+
 	for (int i = 1; i < count; ++i) {
 		printf("%d - %d - %s\n", heap_p[i], heap[i], string_from_location(buffer, locations[heap[i]]));		
 	}
