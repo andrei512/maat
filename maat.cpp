@@ -145,6 +145,7 @@ void add_to_max_heap(int index, int dist, int *heap, int *heap_p, int size, int 
 void pop_max_heap(int *heap, int *heap_p, int size, int &count) {
 	if (count > 1) {
 		// add the last element on top of the heap and remove the max element
+		// TO DO: swap last element with first in order to obtain heapsort 
 		heap[1] = heap[count];
 		heap_p[1] = heap_p[count];
 		--count;
