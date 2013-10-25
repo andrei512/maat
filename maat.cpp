@@ -31,37 +31,37 @@ void load_input(char *input_file) {
 	for (int i = 0; i < N; ++i) {
 		
 		// ID
-		fgets(buffer, 255, input);
+		fgets(buffer, 128, input);
 		buffer[strlen(buffer) - 1] = 0;
 		locations[i].id = (char *)malloc((strlen(buffer) + 1) * sizeof(char));
 		memcpy(locations[i].id, buffer, strlen(buffer));
 
 		// NAME
-		fgets(buffer, 255, input);
+		fgets(buffer, 128, input);
 		buffer[strlen(buffer) - 1] = 0;
 		locations[i].name = (char *)malloc((strlen(buffer) + 1) * sizeof(char));
 		memcpy(locations[i].name, buffer, strlen(buffer));
 
 		// PRECISE NAME
-		fgets(buffer, 255, input);
+		fgets(buffer, 128, input);
 		buffer[strlen(buffer) - 1] = 0;
 		locations[i].precise_name = (char *)malloc((strlen(buffer) + 1) * sizeof(char));
 		memcpy(locations[i].precise_name, buffer, strlen(buffer));
 
 		// LAYER
-		fgets(buffer, 255, input);
+		fgets(buffer, 128, input);
 		buffer[strlen(buffer) - 1] = 0;
 		locations[i].layer = (char *)malloc((strlen(buffer) + 1) * sizeof(char));
 		memcpy(locations[i].layer, buffer, strlen(buffer));
 
 		// STATE
-		fgets(buffer, 255, input);
+		fgets(buffer, 128, input);
 		buffer[strlen(buffer) - 1] = 0;
 		locations[i].state = (char *)malloc((strlen(buffer) + 1) * sizeof(char));
 		memcpy(locations[i].state, buffer, strlen(buffer));
 
 		// COUNTRY
-		fgets(buffer, 255, input);
+		fgets(buffer, 128, input);
 		buffer[strlen(buffer) - 1] = 0;
 		locations[i].country = (char *)malloc((strlen(buffer) + 1) * sizeof(char));
 		memcpy(locations[i].country, buffer, strlen(buffer));
