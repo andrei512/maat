@@ -83,9 +83,9 @@ void load_input(char *input_file) {
 
 #include "char_dist.h"
 
-unsigned int matrix[128][128];
+int matrix[128][128];
 int distance(char *s1, char *s2) {
-    unsigned int x, y, s1len, s2len;
+    int x, y, s1len, s2len;
     
     s1len = strlen(s1);
     s2len = strlen(s2);
