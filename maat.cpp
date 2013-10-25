@@ -211,6 +211,8 @@ void solve_for(char *string) {
 		}
 	}
 
+	double finish = clock();
+
 	// TO DO: sort the heap
 
 	for (int i = 1; i < count; ++i) {
@@ -218,8 +220,6 @@ void solve_for(char *string) {
 	}
 
 	fflush(stdout);
-
-	double finish = clock();
 
 	double dt = (finish - start) / CLOCKS_PER_SEC;
 
