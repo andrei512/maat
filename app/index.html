@@ -15,6 +15,7 @@
 
 
 	<script type="text/javascript">		
+	$.ajaxSetup({ cache: false });
 	$('.typeahead').typeahead({
 		source: function (query,typeahead) {
 			$.get('http://0.0.0.0:9292/', {
