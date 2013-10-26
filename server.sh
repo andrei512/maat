@@ -1,0 +1,1 @@
+rackup ws/config.ru

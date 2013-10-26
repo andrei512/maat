@@ -24,6 +24,10 @@ in egyptian mythology Ma'at was the goddess of truth, justice and harmony. She w
 - trie
 - n-grams
 - n-grams trie
+- edit distance
+- heap
+- 
+
 
 
 

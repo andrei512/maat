@@ -1,0 +1,106 @@
+for new york - 0.0369 seconds
+for a - 0.0080 seconds
+for ne - 0.0134 seconds
+for new - 0.0183 seconds
+for new - 0.0177 seconds
+for new - 0.0174 seconds
+for new y - 0.0244 seconds
+for new yo - 0.0288 seconds
+for new yok - 0.0342 seconds
+for new yokr - 0.0378 seconds
+for new yok - 0.0329 seconds
+for new yo - 0.0287 seconds
+for new york - 0.0370 seconds
+for ne - 0.0134 seconds
+for new - 0.0181 seconds
+for new - 0.0174 seconds
+for new - 0.0177 seconds
+for new y - 0.0245 seconds
+for new yo - 0.0306 seconds
+for new york - 0.0375 seconds
+for new york - 0.0375 seconds
+for new york - 0.0368 seconds
+for ne - 0.0133 seconds
+for new - 0.0180 seconds
+for new - 0.0173 seconds
+for new - 0.0171 seconds
+for ne - 0.0136 seconds
+for new - 0.0186 seconds
+for new - 0.0171 seconds
+for new - 0.0175 seconds
+for new y - 0.0243 seconds
+for new yo - 0.0279 seconds
+for new york - 0.0382 seconds
+for new yor - 0.0322 seconds
+for new york - 0.0369 seconds
+for new yor - 0.0324 seconds
+for new york - 0.0370 seconds
+for new york - 0.0368 seconds
+for new york - 0.0366 seconds
+for ne - 0.0134 seconds
+for new - 0.0170 seconds
+for new - 0.0181 seconds
+for new - 0.0176 seconds
+for new - 0.0172 seconds
+for new y - 0.0250 seconds
+for new yo - 0.0286 seconds
+for new york - 0.0369 seconds
+for l - 0.0079 seconds
+for lo - 0.0131 seconds
+for los - 0.0176 seconds
+for los - 0.0173 seconds
+for los an - 0.0289 seconds
+for los an - 0.0301 seconds
+for ne - 0.0135 seconds
+for new - 0.0173 seconds
+for new - 0.0174 seconds
+for new y - 0.0252 seconds
+for new yo - 0.0292 seconds
+for new york - 0.0384 seconds
+for new york - 0.0369 seconds
+for new york - 0.0372 seconds
+for l - 0.0076 seconds
+for lo - 0.0132 seconds
+for los - 0.0169 seconds
+for los - 0.0172 seconds
+for los a - 0.0244 seconds
+for los an - 0.0288 seconds
+for los ange - 0.0370 seconds
+for los angel - 0.0415 seconds
+for los angele - 0.0470 seconds
+for los angeles - 0.0498 seconds
+for d - 0.0078 seconds
+for de - 0.0134 seconds
+for del - 0.0174 seconds
+for dell - 0.0213 seconds
+for della - 0.0257 seconds
+for dellas - 0.0294 seconds
+for della - 0.0256 seconds
+for dellaw - 0.0291 seconds
+for dellawa - 0.0340 seconds
+for dellaware - 0.0431 seconds
+for dellaware - 0.0431 seconds
+for dellawar - 0.0384 seconds
+for dellawa - 0.0335 seconds
+for dellaw - 0.0296 seconds
+for della - 0.0250 seconds
+for dell - 0.0209 seconds
+for del - 0.0173 seconds
+for dell - 0.0207 seconds
+for della - 0.0253 seconds
+for dellaw - 0.0297 seconds
+for dellawa - 0.0336 seconds
+for dellaware - 0.0422 seconds
+for dellaware - 0.0433 seconds
+for de - 0.0134 seconds
+for de - 0.0136 seconds
+for del - 0.0179 seconds
+for dell - 0.0219 seconds
+for della - 0.0250 seconds
+for dell - 0.0208 seconds
+for del - 0.0175 seconds
+for dela - 0.0213 seconds
+for delaw - 0.0259 seconds
+for delawa - 0.0301 seconds
+for delaware - 0.0391 seconds
+for delaware - 0.0392 seconds

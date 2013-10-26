@@ -215,25 +215,32 @@ void solve_for(char *string) {
 
 	// TO DO: sort the heap
 
+	FILE *fifo_pipe = fopen("fifo_pipe", "w");
+
 	for (int i = 1; i < count; ++i) {
-		printf("%d - %d - %s\n", heap_p[i], heap[i], string_from_location(buffer, locations[heap[i]]));		
+		// printf(fifo_pipe, "%d - %d - %s***", heap_p[i], heap[i], string_from_location(buffer, locations[heap[i]]));		
+		fprintf(fifo_pipe, "%s***", locations[heap[i]].name);		
 	}
 
-	fflush(stdout);
+	fclose(fifo_pipe);
+
 
 	double dt = (finish - start) / CLOCKS_PER_SEC;
+	printf("for %s - %.4f seconds\n", string, dt);		
 
-	printf("%.4f seconds\n", dt);		
+	fflush(stdout);
 }
 
 inline void query_loop() {
 	char string[100];
 	while (true) {
-		fgets(string, 100, stdin);
+		while (fgets(string, 100, stdin) == NULL);
 		// remove \n
 		string[strlen(string) - 1] = 0;
 		
-		solve_for(string);		
+		if (strlen(string) > 0) {
+			solve_for(string);		
+		}
 	}
 }
 
