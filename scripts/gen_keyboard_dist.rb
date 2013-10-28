@@ -32,8 +32,7 @@ for a_letter in 'a'..'z' do
 	dist << current_dist
 end
 
-File.open("char_dist.h", "w") do |file|  
-	file.write(<<-EOF
+puts <<-EOF
 int char_dist[26][26] = {
 #{dist.map { |letter_dist|
 		"\t{" + letter_dist.join(", ") + "},\n"
@@ -53,8 +52,7 @@ inline int cost_for(char a, char b) {
 
 	return char_dist[(int)a][(int)b];
 }
-	EOF
-)
-end
+EOF
+
 
 
