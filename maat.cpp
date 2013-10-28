@@ -6,7 +6,7 @@
 #define DBG
 
 #ifdef DBG 
-	#define dprintf(fmt_args...) printf(fmt_args);
+	#define dprintf(fmt_args...) printf(fmt_args);fflush(stdout);
 #else
 	#define dprintf(fmt_args...) /* nothing */
 #endif
@@ -80,6 +80,117 @@ void load_input(char *input_file) {
 	// 	);
 	// }
 }
+
+// ====================================================================================================
+
+
+
+typedef struct NodeInfo {
+	char *id;
+
+	NodeInfo *next;
+} NodeInfo;
+
+// O(1)
+NodeInfo *newNodeInfo(char *id) {
+	NodeInfo *info = (NodeInfo *)malloc(sizeof(NodeInfo));
+
+	info->id = id;
+	info->next = NULL;
+
+	return info;
+}
+
+#include "char_map.h"
+typedef struct TrieNode {
+	TrieNode *sons;
+
+	NodeInfo *info;
+} TrieNode;
+
+TrieNode *root = NULL;
+
+
+// O(1)
+TrieNode *newNode() {
+	TrieNode *node = (TrieNode *)malloc(sizeof(TrieNode));
+	
+	node->sons = NULL;
+	node->info = NULL;
+
+	return node;
+}
+
+// O(sigma)
+inline void create_sons_for_node(TrieNode *node) {
+	if (node->sons == NULL) {
+		node->sons = (TrieNode *)malloc(SIGMA * sizeof(TrieNode));
+
+		for (int i = 0; i < SIGMA; ++i) {
+			TrieNode son = node->sons[i];
+			son.sons = NULL;
+			son.info = NULL;
+		}
+	}
+}
+
+
+// O(1)
+inline void add_id_to_node_info(TrieNode *node, char *id) {	
+	// if no info create the first item form the linked list
+	if (node->info == NULL) {
+		node->info = newNodeInfo(id);
+	} else {
+		// create a new list tha will point to the begining of the previous list
+		NodeInfo *info = newNodeInfo(id);		
+		info->next = node->info;
+		node->info = info;
+	}
+}
+
+// O(|string|)
+void add_to_trie(TrieNode *node, char *string, char *id) {
+	if (strlen(string) > 0) {	
+		create_sons_for_node(node);
+
+		char letter = string[0];
+
+		int son_index = char_map[(int)letter];
+
+		add_to_trie(&(node->sons[son_index]), string+1, id);
+	} else {
+		add_id_to_node_info(node, id);
+	}
+}
+
+bool valid_string(char *string) {
+	if (strlen(string) <= 0) {
+		return false;
+	}
+
+	int length = strlen(string);
+	for (int i = 0; i < length; ++i) {		
+		if (char_map[(int)string[i]] == -1) {
+			return false;
+		}
+	}
+	return true;
+}
+
+// O(N * |string|)
+void build_trie() {
+	root = newNode(); // beacuse money is the root of all evil
+
+	for (int i = 0; i < N; ++i) {	
+		if (valid_string(locations[i].name) == false) {
+			dprintf("id = %s - |%s| is invalid!\n", locations[i].id, locations[i].name);
+			continue;
+		}
+		add_to_trie(root, locations[i].name, locations[i].id);
+	}
+}
+
+// ====================================================================================================
 
 #include "char_dist.h"
 
@@ -251,6 +362,7 @@ int main(int argc, char **args) {
 	}
 
 	load_input(args[1]);
+	build_trie();
 
 	query_loop();
 
