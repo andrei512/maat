@@ -35,7 +35,7 @@ end
 puts <<-EOF
 int char_dist[26][26] = {
 #{dist.map { |letter_dist|
-		"\t{" + letter_dist.join(", ") + "},\n"
+		"\t{ " + letter_dist.join(", ") + " },\n"
 }.join}};
 
 inline int cost_for(char a, char b) {
