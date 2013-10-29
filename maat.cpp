@@ -186,7 +186,7 @@ void build_trie() {
 			dprintf("id = %s - |%s| is invalid!\n", locations[i].id, locations[i].name);
 			continue;
 		}
-		add_to_trie(root, locations[i].name, locations[i].id);
+		add_to_trie(root, locations[i].name, locations[i].name);
 	}
 }
 
@@ -306,34 +306,63 @@ char *string_from_location(char *buff, Location location) {
 	return buff;
 }
 
+int N_RET;
+char *names[128];
+FILE *fifo_pipe;
+
+bool print_info(NodeInfo *info) {
+	if (N_RET < 20) {
+		++N_RET;
+
+		fprintf(fifo_pipe, "%s***", info->id);
+
+		return true;
+	}
+	return false;
+}
+
+void iterate_trie(TrieNode *node, char *prefix) {
+	// dprintf("iterate_trie - node = %u prefix = %s\n", node, prefix);
+	if (prefix != NULL and strlen(prefix) > 0) {
+		if (node->sons != NULL) {		
+			char letter = prefix[0];
+			int son_index = char_map[(int)letter];
+
+			char *next_prefix = strlen(prefix) > 1 ? prefix + 1 : NULL;
+
+			iterate_trie(&(node->sons[son_index]), next_prefix);
+		}
+	} else {
+		if (node->info != NULL) {
+			NodeInfo *it = node->info;
+			while (it) {
+				if (print_info(it) == false) {
+					return ; 
+				}
+				it = it->next;
+			}
+		}
+
+		if (node->sons != NULL) {
+			for (int i = 0; i < SIGMA; ++i) {
+				iterate_trie(&(node->sons[i]), NULL);	
+			}
+		}
+	}
+}
+
 void solve_for(char *string) {	
 	double start = clock();
 
-	int heap_size = 40, count = 0;
-	int heap[2 * heap_size + 1];	
-	int heap_p[2 * heap_size + 1];
+	fifo_pipe = fopen("fifo_pipe", "w");
 
-	for (int i = 1; i < N; ++i) {
-		int dist = distance(string, locations[i].name);
-		
-		add_to_max_heap(i, dist, heap, heap_p, heap_size, count);
-		if (i > heap_size) {
-			pop_max_heap(heap, heap_p, heap_size, count);
-		}
-	}
+	N_RET = 0;
+	iterate_trie(root, string);
+
+	fclose(fifo_pipe);
 
 	double finish = clock();
 
-	// TO DO: sort the heap
-
-	FILE *fifo_pipe = fopen("fifo_pipe", "w");
-
-	for (int i = 1; i < count; ++i) {
-		// printf(fifo_pipe, "%d - %d - %s***", heap_p[i], heap[i], string_from_location(buffer, locations[heap[i]]));		
-		fprintf(fifo_pipe, "%s***", locations[heap[i]].name);		
-	}
-
-	fclose(fifo_pipe);
 
 
 	double dt = (finish - start) / CLOCKS_PER_SEC;

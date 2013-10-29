@@ -1,0 +1,95 @@
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new y - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new yo - 0.0001 seconds
+for a - 0.0011 seconds
+for al - 0.0003 seconds
+for ala - 0.0001 seconds
+for ala - 0.0001 seconds
+for ne - 0.0006 seconds
+for new - 0.0005 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new y - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new yo - 0.0001 seconds
+for an - 0.0002 seconds
+for an - 0.0002 seconds
+for a - 0.0010 seconds
+for l - 0.0012 seconds
+for lo - 0.0004 seconds
+for los - 0.0002 seconds
+for los - 0.0002 seconds
+for los a - 0.0001 seconds
+for los an - 0.0001 seconds
+for los angeles - 0.0001 seconds
+for los angeles - 0.0001 seconds
+for l - 0.0011 seconds
+for lo - 0.0004 seconds
+for los - 0.0002 seconds
+for los - 0.0002 seconds
+for los a - 0.0001 seconds
+for los an - 0.0001 seconds
+for los an - 0.0001 seconds
+for los an - 0.0001 seconds
+for w - 0.0009 seconds
+for wa - 0.0003 seconds
+for was - 0.0001 seconds
+for wasH - 0.0001 seconds
+for wasHi - 0.0001 seconds
+for wasHin - 0.0001 seconds
+for wasHin - 0.0001 seconds
+for wasHin - 0.0001 seconds
+for ne - 0.0005 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for p - 0.0013 seconds
+for pa - 0.0004 seconds
+for pau - 0.0001 seconds
+for paul - 0.0001 seconds
+for paula - 0.0001 seconds
+for paula - 0.0001 seconds
+for paula - 0.0001 seconds
+for paul - 0.0001 seconds
+for paula - 0.0001 seconds
+for paulao - 0.0001 seconds
+for paula - 0.0001 seconds
+for paul - 0.0001 seconds
+for paulo - 0.0001 seconds
+for paulo - 0.0001 seconds
+for paulo - 0.0007 seconds
+for paul - 0.0001 seconds
+for pau - 0.0001 seconds
+for pa - 0.0005 seconds
+for p - 0.0012 seconds
+for pa - 0.0004 seconds
+for pal - 0.0002 seconds
+for palo - 0.0001 seconds
+for palo - 0.0001 seconds
+for palo a - 0.0001 seconds
+for palo a - 0.0006 seconds
+for s - 0.0030 seconds
+for so - 0.0008 seconds
+for sou - 0.0008 seconds
+for sout - 0.0008 seconds
+for south - 0.0008 seconds
+for south - 0.0008 seconds
+for south p - 0.0001 seconds
+for south pa - 0.0001 seconds
+for south pa - 0.0001 seconds
+for s - 0.0031 seconds
+for so - 0.0011 seconds
+for sou - 0.0008 seconds
+for sout - 0.0008 seconds
+for south - 0.0008 seconds
+for south - 0.0011 seconds
+for south p - 0.0002 seconds
+for south pa - 0.0001 seconds
+for south pa - 0.0001 seconds
+for south pa - 0.0001 seconds
+for p - 0.0012 seconds
+for pa - 0.0004 seconds
+for p - 0.0013 seconds
