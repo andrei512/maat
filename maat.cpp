@@ -86,16 +86,15 @@ void load_input(char *input_file) {
 
 
 typedef struct NodeInfo {
-	char *id;
-
+	int index;
 	NodeInfo *next;
 } NodeInfo;
 
 // O(1)
-NodeInfo *newNodeInfo(char *id) {
+NodeInfo *newNodeInfo(int index) {
 	NodeInfo *info = (NodeInfo *)malloc(sizeof(NodeInfo));
 
-	info->id = id;
+	info->index = index;
 	info->next = NULL;
 
 	return info;
@@ -103,84 +102,73 @@ NodeInfo *newNodeInfo(char *id) {
 
 #include "char_map.h"
 typedef struct TrieNode {
+	char character;
+	char n_sons;
 	TrieNode *sons;
-
 	NodeInfo *info;
 } TrieNode;
 
 TrieNode *root = NULL;
 
-
 // O(1)
-TrieNode *newNode() {
+TrieNode *newNode(char character) {
 	TrieNode *node = (TrieNode *)malloc(sizeof(TrieNode));
-	
+
+	node->character = character;
+	node->n_sons = 0;
 	node->sons = NULL;
-	node->info = NULL;
+	node->info = NULL;	
 
 	return node;
 }
 
-// O(sigma)
-inline void create_sons_for_node(TrieNode *node) {
-	if (node->sons == NULL) {
-		node->sons = (TrieNode *)malloc(SIGMA * sizeof(TrieNode));
-
-		for (int i = 0; i < SIGMA; ++i) {
-			TrieNode son = node->sons[i];
-			son.sons = NULL;
-			son.info = NULL;
-		}
-	}
-}
-
-
 // O(1)
-inline void add_id_to_node_info(TrieNode *node, char *id) {	
+inline void add_index_to_node_info(TrieNode *node, int index) {	
 	// if no info create the first item form the linked list
 	if (node->info == NULL) {
-		node->info = newNodeInfo(id);
+		node->info = newNodeInfo(index);
 	} else {
 		// create a new list tha will point to the begining of the previous list
-		NodeInfo *info = newNodeInfo(id);		
+		NodeInfo *info = newNodeInfo(index);		
 		info->next = node->info;
 		node->info = info;
 	}
 }
 
-// O(|string|)
-void add_to_trie(TrieNode *node, char *string, char *id) {
+// O(|string| * SIGMAish) but more like O(|string|) when taking in consideration all of the insertions
+void add_to_trie(TrieNode *node, char *string, int index) {
 	if (strlen(string) > 0) {	
-		create_sons_for_node(node);
+		char first_character = string[0];
+		int son_index = -1;
 
-		char letter = string[0];
-
-		int son_index = char_map[(int)letter];
-
-		add_to_trie(&(node->sons[son_index]), string+1, id);
-	} else {
-		add_id_to_node_info(node, id);
-	}
-}
-
-// O(|string| ^ MAX_VARIANTS)
-const int MAX_VARIANTS = 3;
-void add_to_trie_with_deletion_variants(TrieNode *node, char *string, char *id, int n_variants, int depth) {
-	if (strlen(string) > 0) {	
-		create_sons_for_node(node);
-
-		char letter = string[0];
-
-		int son_index = char_map[(int)letter];
-
-		add_to_trie_with_deletion_variants(&(node->sons[son_index]), string+1, id, n_variants, depth + 1);
-
-		if (n_variants < MAX_VARIANTS and depth < 6) {
-			int deletion_index = char_map[(int)DELETITION_MARKER];
-			add_to_trie_with_deletion_variants(&(node->sons[deletion_index]), string+1, id, n_variants + 1, depth + 1);
+		// check if there is a link
+		for (int i = 0; i < node->n_sons; ++i) {
+			TrieNode son = node->sons[i];
+			if (son.character == first_character) {
+				son_index = i;
+				break;
+			}
 		}
+
+		if (son_index == -1) {
+			// get the old list
+			TrieNode *old_sons = node->sons;
+			char new_n_sons = node->n_sons + 1;
+			son_index = new_n_sons - 1;
+
+			// create a new one and copy the old information and add the new node
+			TrieNode *new_sons = (TrieNode *)malloc(new_n_sons * sizeof(TrieNode));
+			memcpy(new_sons, old_sons, node->n_sons * sizeof(TrieNode));
+			memcpy(new_sons+son_index, newNode(first_character), sizeof(TrieNode));
+
+			// apply changes on current node
+			node->n_sons = new_n_sons;
+			node->sons = new_sons;			
+		}
+		
+		add_to_trie(&(node->sons[son_index]), string+1, index);
 	} else {
-		add_id_to_node_info(node, id);
+		add_index_to_node_info(node, index);
 	}
 }
 
@@ -200,14 +188,14 @@ bool valid_string(char *string) {
 
 // O(N * |string|)
 void build_trie() {
-	root = newNode(); // beacuse money is the root of all evil
+	root = newNode(0); // beacuse money is the root of all evil
 
 	for (int i = 0; i < N; ++i) {	
 		if (valid_string(locations[i].name) == false) {
 			dprintf("id = %s - |%s| is invalid!\n", locations[i].id, locations[i].name);
 			continue;
 		}
-		add_to_trie(root, locations[i].name, locations[i].name);
+		add_to_trie(root, locations[i].name, i);
 	}
 }
 
@@ -335,7 +323,7 @@ bool print_info(NodeInfo *info) {
 	if (N_RET < 20) {
 		++N_RET;
 
-		fprintf(fifo_pipe, "%s***", info->id);
+		fprintf(fifo_pipe, "%s***", locations[info->index].name);
 
 		return true;
 	}
@@ -346,12 +334,21 @@ void iterate_trie(TrieNode *node, char *prefix) {
 	// dprintf("iterate_trie - node = %u prefix = %s\n", node, prefix);
 	if (prefix != NULL and strlen(prefix) > 0) {
 		if (node->sons != NULL) {		
-			char letter = prefix[0];
-			int son_index = char_map[(int)letter];
+			char first_character = prefix[0];
 
-			char *next_prefix = strlen(prefix) > 1 ? prefix + 1 : NULL;
+			int son_index = -1;
+			for (int i = 0; i < node->n_sons; ++i) {
+				TrieNode son = node->sons[i];
+				if (son.character == first_character) {
+					son_index = i;
+					break;
+				}
+			}
 
-			iterate_trie(&(node->sons[son_index]), next_prefix);
+			if (son_index != -1) {
+				char *next_prefix = strlen(prefix) > 1 ? prefix + 1 : NULL;
+				iterate_trie(&(node->sons[son_index]), next_prefix);
+			}
 		}
 	} else {
 		if (node->info != NULL) {
@@ -365,7 +362,7 @@ void iterate_trie(TrieNode *node, char *prefix) {
 		}
 
 		if (node->sons != NULL) {
-			for (int i = 0; i < SIGMA; ++i) {
+			for (int i = 0; i < node->n_sons; ++i) {
 				iterate_trie(&(node->sons[i]), NULL);	
 			}
 		}
@@ -395,13 +392,29 @@ void solve_for(char *string) {
 inline void query_loop() {
 	char string[100];
 	while (true) {
-		while (fgets(string, 100, stdin) == NULL);
+		// while (fgets(string, 100, stdin) == NULL);
+		fgets(string, 100, stdin);
+
 		// remove \n
 		string[strlen(string) - 1] = 0;
 		
 		if (strlen(string) > 0) {
 			solve_for(string);		
 		}
+	}
+}
+
+void debug_trie(TrieNode *node, char *prefix) {
+	dprintf("%s -> %lu\n", prefix, (unsigned long)node);
+
+	for (int i = 0; i < node->n_sons; ++i) {
+		char *new_prefix = (char *)malloc(strlen(prefix) + 2);
+
+		TrieNode son = node->sons[i];
+
+		sprintf(new_prefix, "%s%c", prefix, son.character);
+
+		debug_trie(&son, new_prefix);
 	}
 }
 
@@ -413,6 +426,8 @@ int main(int argc, char **args) {
 
 	load_input(args[1]);
 	build_trie();
+
+	// debug_trie(root, "");
 
 	query_loop();
 

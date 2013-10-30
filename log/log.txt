@@ -498,3 +498,48 @@ for new y - 0.0001 seconds
 for new - 0.0004 seconds
 for new - 0.0004 seconds
 for ne - 0.0005 seconds
+for ne - 0.0001 seconds
+for new - 0.0001 seconds
+for new - 0.0001 seconds
+for new y - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new y - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new yor - 0.0001 seconds
+for new york - 0.0001 seconds
+for new yor - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new y - 0.0001 seconds
+for new - 0.0001 seconds
+for new - 0.0001 seconds
+for ne - 0.0001 seconds
+for n - 0.0002 seconds
+for an - 0.0001 seconds
+for an - 0.0001 seconds
+for ana - 0.0001 seconds
+for ana - 0.0001 seconds
+for ana - 0.0001 seconds
+for an - 0.0001 seconds
+for a - 0.0002 seconds
+for a - 0.0002 seconds
+for ar - 0.0001 seconds
+for are - 0.0001 seconds
+for ar - 0.0001 seconds
+for arre - 0.0001 seconds
+for arre - 0.0001 seconds
+for arr - 0.0001 seconds
+for ar - 0.0001 seconds
+for are - 0.0001 seconds
+for area - 0.0001 seconds
+for area - 0.0001 seconds
+for area - 0.0001 seconds
+for are - 0.0001 seconds
+for ar - 0.0001 seconds
+for a - 0.0002 seconds
+for ne - 0.0001 seconds
+for new - 0.0001 seconds
+for new - 0.0001 seconds
+for new - 0.0001 seconds
+for new - 0.0001 seconds
+for ne - 0.0001 seconds
+for n - 0.0002 seconds
