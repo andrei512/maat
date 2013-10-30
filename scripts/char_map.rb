@@ -42,5 +42,10 @@ add_character '#', map
 add_character '\'', map
 add_character '\\', map
 
+# deltition marker 
+DELETITION_MARKER = "@"
+add_character DELETITION_MARKER, map
+
+puts "const char DELETITION_MARKER = '#{DELETITION_MARKER}';"
 puts "const int SIGMA = #{map.uniq.count - 1};"
 puts "int char_map[256] = {#{map.join(", ")}};"

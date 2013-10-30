@@ -93,3 +93,408 @@ for south pa - 0.0001 seconds
 for p - 0.0012 seconds
 for pa - 0.0004 seconds
 for p - 0.0013 seconds
+for q - 0.0002 seconds
+for qwer - 0.0001 seconds
+for qwe - 0.0000 seconds
+for qwert - 0.0001 seconds
+for qwert - 0.0001 seconds
+for qwertyu - 0.0001 seconds
+for qwertyu - 0.0001 seconds
+for qwertyu - 0.0001 seconds
+for ne - 0.0006 seconds
+for new - 0.0005 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for ne - 0.0007 seconds
+for n - 0.0018 seconds
+for m - 0.0018 seconds
+for me - 0.0003 seconds
+for mew - 0.0001 seconds
+for mew - 0.0001 seconds
+for mew y - 0.0001 seconds
+for mew y - 0.0001 seconds
+for n - 0.0021 seconds
+for nw - 0.0001 seconds
+for nw - 0.0003 seconds
+for nw o - 0.0006 seconds
+for nw - 0.0001 seconds
+for nw - 0.0001 seconds
+for n - 0.0016 seconds
+for ge - 0.0007 seconds
+for ge - 0.0001 seconds
+for geo - 0.0001 seconds
+for geor - 0.0001 seconds
+for geor - 0.0001 seconds
+for ne - 0.0006 seconds
+for new - 0.0005 seconds
+for new - 0.0005 seconds
+for new - 0.0004 seconds
+for new h - 0.0001 seconds
+for new h - 0.0001 seconds
+for e - 0.0010 seconds
+for ea - 0.0005 seconds
+for eas - 0.0009 seconds
+for east - 0.0009 seconds
+for eas - 0.0009 seconds
+for ea - 0.0002 seconds
+for e - 0.0008 seconds
+for b - 0.0020 seconds
+for br - 0.0006 seconds
+for bro - 0.0002 seconds
+for brol - 0.0001 seconds
+for bro - 0.0002 seconds
+for broo - 0.0002 seconds
+for brook - 0.0002 seconds
+for brookl - 0.0001 seconds
+for brookli - 0.0001 seconds
+for brookl - 0.0001 seconds
+for brook - 0.0002 seconds
+for broo - 0.0002 seconds
+for bro - 0.0002 seconds
+for br - 0.0005 seconds
+for b - 0.0025 seconds
+for r - 0.0009 seconds
+for ro - 0.0003 seconds
+for roge - 0.0001 seconds
+for roge - 0.0001 seconds
+for roger - 0.0001 seconds
+for roge - 0.0001 seconds
+for rog - 0.0001 seconds
+for ro - 0.0003 seconds
+for r - 0.0009 seconds
+for t - 0.0021 seconds
+for to - 0.0004 seconds
+for toy - 0.0001 seconds
+for to - 0.0004 seconds
+for t - 0.0016 seconds
+for t - 0.0019 seconds
+for toy - 0.0001 seconds
+for toy - 0.0001 seconds
+for toy - 0.0001 seconds
+for toy town - 0.0008 seconds
+for ne - 0.0005 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new - 0.0003 seconds
+for ne - 0.0005 seconds
+for n - 0.0015 seconds
+for an - 0.0002 seconds
+for an - 0.0002 seconds
+for ana - 0.0001 seconds
+for ana - 0.0001 seconds
+for ana a - 0.0001 seconds
+for ana ar - 0.0001 seconds
+for ana are - 0.0001 seconds
+for ana ar - 0.0001 seconds
+for ana a - 0.0001 seconds
+for ana - 0.0001 seconds
+for ana - 0.0001 seconds
+for an - 0.0002 seconds
+for a - 0.0012 seconds
+for m - 0.0017 seconds
+for me - 0.0003 seconds
+for mere - 0.0001 seconds
+for mere - 0.0001 seconds
+for mere - 0.0001 seconds
+for mere s - 0.0001 seconds
+for mere s - 0.0001 seconds
+for mere ssd - 0.0001 seconds
+for mere ssd - 0.0001 seconds
+for mere ssd - 0.0001 seconds
+for mere ssf - 0.0001 seconds
+for mere ssfs - 0.0001 seconds
+for mere ssfs - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsfssd - 0.0001 seconds
+for mere ssfsfssd - 0.0001 seconds
+for mere ssfsfssd - 0.0001 seconds
+for mere ssfsfssdd - 0.0001 seconds
+for mere ssfsfssdd - 0.0001 seconds
+for mere ssfsfssddf - 0.0001 seconds
+for mere ssfsfssddf - 0.0001 seconds
+for mere ssfsfssddfd - 0.0001 seconds
+for mere ssfsfssddfd - 0.0001 seconds
+for mere ssfsfssddfdsd - 0.0001 seconds
+for mere ssfsfssddfdsd - 0.0001 seconds
+for mere ssfsfssddfdsd - 0.0001 seconds
+for mere ssfsfssddfdsf - 0.0001 seconds
+for mere ssfsfssddfdsf - 0.0001 seconds
+for mere ssfsfssddfdsfd - 0.0001 seconds
+for mere ssfsfssddfdsfd - 0.0001 seconds
+for mere ssfsfssddfdsfd - 0.0001 seconds
+for mere ssfsfssddfdsfdsd - 0.0001 seconds
+for mere ssfsfssddfdsfdsd - 0.0001 seconds
+for mere ssfsfssddfdsfdsf - 0.0001 seconds
+for mere ssfsfssddfdsfdsf - 0.0001 seconds
+for mere ssfsfssddfdsfdsf - 0.0001 seconds
+for mere ssfsfssddfdsfdsf - 0.0001 seconds
+for mere ssfsfssddfdsfdsf - 0.0001 seconds
+for mere ssfsfssddfdsfds - 0.0001 seconds
+for mere ssfsfssddfdsfd - 0.0001 seconds
+for mere ssfsfssddfdsf - 0.0001 seconds
+for mere ssfsfssddfds - 0.0001 seconds
+for mere ssfsfssddfd - 0.0001 seconds
+for mere ssfsfssddf - 0.0001 seconds
+for mere ssfsfssdd - 0.0001 seconds
+for mere ssfsfssd - 0.0001 seconds
+for mere ssfsfss - 0.0001 seconds
+for mere ssfsfsss - 0.0001 seconds
+for mere ssfsfsss - 0.0001 seconds
+for mere ssfsfsss - 0.0001 seconds
+for mere ssfsfssd - 0.0001 seconds
+for mere ssfsfssd - 0.0001 seconds
+for mere ssfsfss - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsfs - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfsf - 0.0001 seconds
+for mere ssfss - 0.0001 seconds
+for mere ssfss - 0.0001 seconds
+for mere ssfs - 0.0001 seconds
+for mere ssfss - 0.0001 seconds
+for mere ssfs - 0.0001 seconds
+for mere ssf - 0.0001 seconds
+for mere ss - 0.0001 seconds
+for mere s - 0.0001 seconds
+for mere - 0.0001 seconds
+for mere - 0.0001 seconds
+for mer - 0.0001 seconds
+for mer - 0.0001 seconds
+for mer - 0.0001 seconds
+for mers - 0.0001 seconds
+for mers - 0.0001 seconds
+for merss - 0.0001 seconds
+for mers - 0.0001 seconds
+for mers - 0.0001 seconds
+for mersd - 0.0001 seconds
+for mersd - 0.0001 seconds
+for mersd - 0.0001 seconds
+for mersds - 0.0001 seconds
+for mersds - 0.0001 seconds
+for mersdsds - 0.0001 seconds
+for mersdsds - 0.0001 seconds
+for mersdsdsd - 0.0001 seconds
+for mersdsdsds - 0.0001 seconds
+for mersdsdsdsd - 0.0001 seconds
+for mersdsdsdsd - 0.0001 seconds
+for mersdsdsdsd - 0.0001 seconds
+for mersdsdsds - 0.0001 seconds
+for mersdsdsd - 0.0001 seconds
+for mersdsds - 0.0001 seconds
+for mersdsd - 0.0001 seconds
+for mersds - 0.0001 seconds
+for mersd - 0.0001 seconds
+for mers - 0.0001 seconds
+for mer - 0.0001 seconds
+for me - 0.0003 seconds
+for m - 0.0021 seconds
+for s - 0.0031 seconds
+for s - 0.0033 seconds
+for s - 0.0035 seconds
+for s - 0.0033 seconds
+for s - 0.0030 seconds
+for s - 0.0030 seconds
+for s - 0.0030 seconds
+for s - 0.0032 seconds
+for a - 0.0010 seconds
+for a - 0.0010 seconds
+for s - 0.0030 seconds
+for s - 0.0030 seconds
+for f - 0.0010 seconds
+for fs - 0.0001 seconds
+for fs - 0.0001 seconds
+for fsds - 0.0002 seconds
+for fsds - 0.0004 seconds
+for fsd - 0.0001 seconds
+for fs - 0.0001 seconds
+for f - 0.0010 seconds
+for sa - 0.0005 seconds
+for sa - 0.0005 seconds
+for sas - 0.0001 seconds
+for sasa - 0.0001 seconds
+for sasas - 0.0001 seconds
+for sasas - 0.0001 seconds
+for sasas - 0.0001 seconds
+for sasa - 0.0001 seconds
+for sas - 0.0001 seconds
+for sa - 0.0005 seconds
+for s - 0.0030 seconds
+for ssd - 0.0001 seconds
+for ssda - 0.0001 seconds
+for ssda - 0.0001 seconds
+for ssdad - 0.0001 seconds
+for ssdad - 0.0001 seconds
+for ssdad - 0.0001 seconds
+for ssdad - 0.0001 seconds
+for ssdads - 0.0001 seconds
+for ssdads - 0.0001 seconds
+for ssdad - 0.0001 seconds
+for ssda - 0.0001 seconds
+for ssd - 0.0001 seconds
+for ss - 0.0001 seconds
+for s - 0.0030 seconds
+for a - 0.0010 seconds
+for asa - 0.0001 seconds
+for asa - 0.0001 seconds
+for as - 0.0002 seconds
+for a - 0.0010 seconds
+for ne - 0.0007 seconds
+for new - 0.0004 seconds
+for new - 0.0003 seconds
+for new y - 0.0001 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for ne - 0.0005 seconds
+for n - 0.0016 seconds
+for a - 0.0010 seconds
+for an - 0.0002 seconds
+for ana - 0.0001 seconds
+for an - 0.0002 seconds
+for a - 0.0009 seconds
+for a - 0.0010 seconds
+for al - 0.0003 seconds
+for ala - 0.0001 seconds
+for alas - 0.0001 seconds
+for ala - 0.0001 seconds
+for al - 0.0003 seconds
+for a - 0.0010 seconds
+for k - 0.0006 seconds
+for ko - 0.0001 seconds
+for koa - 0.0001 seconds
+for ko - 0.0001 seconds
+for k - 0.0006 seconds
+for ka - 0.0002 seconds
+for kas - 0.0001 seconds
+for ka - 0.0002 seconds
+for kan - 0.0001 seconds
+for ka - 0.0002 seconds
+for k - 0.0006 seconds
+for ne - 0.0005 seconds
+for new - 0.0004 seconds
+for new - 0.0003 seconds
+for new - 0.0004 seconds
+for new h - 0.0001 seconds
+for new ha - 0.0001 seconds
+for new ham - 0.0001 seconds
+for new ha - 0.0001 seconds
+for new h - 0.0001 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for ne - 0.0005 seconds
+for n - 0.0016 seconds
+for h - 0.0011 seconds
+for ha - 0.0004 seconds
+for ham - 0.0001 seconds
+for hamp - 0.0001 seconds
+for hamps - 0.0005 seconds
+for hampsi - 0.0001 seconds
+for hamps - 0.0001 seconds
+for hamps - 0.0001 seconds
+for hamps - 0.0001 seconds
+for a - 0.0010 seconds
+for a - 0.0009 seconds
+for a - 0.0010 seconds
+for a - 0.0010 seconds
+for a - 0.0010 seconds
+for a - 0.0011 seconds
+for a - 0.0010 seconds
+for aa - 0.0001 seconds
+for a - 0.0010 seconds
+for aA - 0.0001 seconds
+for aAA - 0.0001 seconds
+for aAAa - 0.0001 seconds
+for aAA - 0.0001 seconds
+for aA - 0.0001 seconds
+for aAA - 0.0001 seconds
+for aA - 0.0001 seconds
+for aasc - 0.0001 seconds
+for aas - 0.0001 seconds
+for aa - 0.0001 seconds
+for aaronsbur - 0.0001 seconds
+for a - 0.0010 seconds
+for aa - 0.0001 seconds
+for aaa - 0.0001 seconds
+for aaa - 0.0001 seconds
+for k - 0.0006 seconds
+for kl - 0.0001 seconds
+for kl - 0.0001 seconds
+for l - 0.0011 seconds
+for lo - 0.0003 seconds
+for lol - 0.0001 seconds
+for lol - 0.0001 seconds
+for lol - 0.0001 seconds
+for w - 0.0009 seconds
+for ws - 0.0001 seconds
+for ws - 0.0001 seconds
+for ws - 0.0001 seconds
+for q - 0.0002 seconds
+for qa - 0.0001 seconds
+for qa - 0.0001 seconds
+for n - 0.0018 seconds
+for new - 0.0005 seconds
+for new - 0.0004 seconds
+for new y - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new y - 0.0001 seconds
+for new - 0.0003 seconds
+for new - 0.0004 seconds
+for ne - 0.0005 seconds
+for n - 0.0015 seconds
+for n - 0.0017 seconds
+for new - 0.0004 seconds
+for new - 0.0003 seconds
+for new - 0.0007 seconds
+for a - 0.0012 seconds
+for al - 0.0003 seconds
+for a - 0.0010 seconds
+for an - 0.0002 seconds
+for an - 0.0002 seconds
+for a - 0.0010 seconds
+for ne - 0.0023 seconds
+for new - 0.0015 seconds
+for new - 0.0014 seconds
+for new - 0.0014 seconds
+for ne - 0.0023 seconds
+for n - 0.0119 seconds
+for ne - 0.0022 seconds
+for new - 0.0015 seconds
+for new - 0.0014 seconds
+for new - 0.0015 seconds
+for new - 0.0014 seconds
+for ne - 0.0022 seconds
+for n - 0.0120 seconds
+./run.sh: line 2: 24104 Killed: 9               ./maat $@
+for ne - 0.0006 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for new y - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new yok - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new y - 0.0001 seconds
+for new - 0.0004 seconds
+for new - 0.0004 seconds
+for ne - 0.0005 seconds

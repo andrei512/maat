@@ -163,6 +163,27 @@ void add_to_trie(TrieNode *node, char *string, char *id) {
 	}
 }
 
+// O(|string| ^ MAX_VARIANTS)
+const int MAX_VARIANTS = 3;
+void add_to_trie_with_deletion_variants(TrieNode *node, char *string, char *id, int n_variants, int depth) {
+	if (strlen(string) > 0) {	
+		create_sons_for_node(node);
+
+		char letter = string[0];
+
+		int son_index = char_map[(int)letter];
+
+		add_to_trie_with_deletion_variants(&(node->sons[son_index]), string+1, id, n_variants, depth + 1);
+
+		if (n_variants < MAX_VARIANTS and depth < 6) {
+			int deletion_index = char_map[(int)DELETITION_MARKER];
+			add_to_trie_with_deletion_variants(&(node->sons[deletion_index]), string+1, id, n_variants + 1, depth + 1);
+		}
+	} else {
+		add_id_to_node_info(node, id);
+	}
+}
+
 bool valid_string(char *string) {
 	if (strlen(string) <= 0) {
 		return false;

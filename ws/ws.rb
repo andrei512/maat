@@ -1,7 +1,7 @@
 # create a log file and get references to stdin, stdout and stderr
 # create a fork for the C++ code and serve it through a simple rack app
 
-child_stdout_and_stderr = File.new("log/log.txt","w+")
+child_stdout_and_stderr = File.new("log/log.txt","a+")
 
 @@r, @@w = IO.pipe
 
