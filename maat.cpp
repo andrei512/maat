@@ -163,19 +163,41 @@ inline int son_index_for_character(TrieNode *node, char character) {
 	return -1;
 }
 
+inline int get_or_add_son_for_character(TrieNode *node, char character) {
+	int son_index = son_index_for_character(node, character);
+
+	if (son_index == -1) {
+		son_index = add_edge_to_character(node, character);
+	}
+
+	return son_index;
+}
 
 // O(|string| * SIGMAish) but more like O(|string|) when taking in consideration all of the insertions
 void add_to_trie(TrieNode *node, char *string, int index) {
 	if (strlen(string) > 0) {	
 		char first_character = string[0];
-
-		int son_index = son_index_for_character(node, first_character);
-
-		if (son_index == -1) {
-			son_index = add_edge_to_character(node, first_character);
-		}
+		int son_index = get_or_add_son_for_character(node, first_character);
 		
 		add_to_trie(&(node->sons[son_index]), string+1, index);
+	} else {
+		add_index_to_node_info(node, index);
+	}
+}
+
+// O(|string| ^ MAX_VARIATION)
+const int MAX_VARIATION = 3;
+void add_to_trie_with_deletition_variants(TrieNode *node, char *string, int index, int variation) {
+	if (strlen(string) > 0) {	
+		if (variation < MAX_VARIATION) {
+			int deletiton_index = get_or_add_son_for_character(node, DELETITION_MARKER);
+			add_to_trie_with_deletition_variants(&(node->sons[deletiton_index]), string+1, index, variation + 1);	
+		}
+
+		char first_character = string[0];
+		int son_index = get_or_add_son_for_character(node, first_character);
+		
+		add_to_trie_with_deletition_variants(&(node->sons[son_index]), string+1, index, variation);
 	} else {
 		add_index_to_node_info(node, index);
 	}
@@ -204,7 +226,7 @@ void build_trie() {
 			dprintf("id = %s - |%s| is invalid!\n", locations[i].id, locations[i].name);
 			continue;
 		}
-		add_to_trie(root, locations[i].name, i);
+		add_to_trie_with_deletition_variants(root, locations[i].name, i, 0);
 	}
 }
 
