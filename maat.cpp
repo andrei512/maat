@@ -135,35 +135,44 @@ inline void add_index_to_node_info(TrieNode *node, int index) {
 	}
 }
 
+inline int add_edge_to_character(TrieNode *node, char character) {
+	// get the old list
+	TrieNode *old_sons = node->sons;
+	char new_n_sons = node->n_sons + 1;
+	int son_index = node->n_sons;
+
+	// create a new one and copy the old information and add the new node
+	TrieNode *new_sons = (TrieNode *)malloc(new_n_sons * sizeof(TrieNode));
+	memcpy(new_sons, old_sons, node->n_sons * sizeof(TrieNode));
+	memcpy(new_sons+son_index, newNode(character), sizeof(TrieNode));
+
+	// apply changes on current node
+	node->n_sons = new_n_sons;
+	node->sons = new_sons;		
+
+	return son_index;	
+}
+
+inline int son_index_for_character(TrieNode *node, char character) {
+	for (int i = 0; i < node->n_sons; ++i) {
+		TrieNode son = node->sons[i];
+		if (son.character == character) {
+			return i;
+		}
+	}
+	return -1;
+}
+
+
 // O(|string| * SIGMAish) but more like O(|string|) when taking in consideration all of the insertions
 void add_to_trie(TrieNode *node, char *string, int index) {
 	if (strlen(string) > 0) {	
 		char first_character = string[0];
-		int son_index = -1;
 
-		// check if there is a link
-		for (int i = 0; i < node->n_sons; ++i) {
-			TrieNode son = node->sons[i];
-			if (son.character == first_character) {
-				son_index = i;
-				break;
-			}
-		}
+		int son_index = son_index_for_character(node, first_character);
 
 		if (son_index == -1) {
-			// get the old list
-			TrieNode *old_sons = node->sons;
-			char new_n_sons = node->n_sons + 1;
-			son_index = new_n_sons - 1;
-
-			// create a new one and copy the old information and add the new node
-			TrieNode *new_sons = (TrieNode *)malloc(new_n_sons * sizeof(TrieNode));
-			memcpy(new_sons, old_sons, node->n_sons * sizeof(TrieNode));
-			memcpy(new_sons+son_index, newNode(first_character), sizeof(TrieNode));
-
-			// apply changes on current node
-			node->n_sons = new_n_sons;
-			node->sons = new_sons;			
+			son_index = add_edge_to_character(node, first_character);
 		}
 		
 		add_to_trie(&(node->sons[son_index]), string+1, index);

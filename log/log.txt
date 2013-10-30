@@ -543,3 +543,39 @@ for new - 0.0001 seconds
 for new - 0.0001 seconds
 for ne - 0.0001 seconds
 for n - 0.0002 seconds
+maat.cpp:147:37: error: use of undeclared identifier 'first_character'
+        memcpy(new_sons+son_index, newNode(first_character), sizeof(TrieNode));
+                                           ^
+maat.cpp:159:24: error: use of undeclared identifier 'first_character'
+                if (son.character == first_character) {
+                                     ^
+maat.cpp:172:19: error: no matching function for call to 'son_index_for_character'
+                int son_index = son_index_for_character(first_character);
+                                ^~~~~~~~~~~~~~~~~~~~~~~
+maat.cpp:156:12: note: candidate function not viable: requires 2 arguments, but 1 was provided
+inline int son_index_for_character(TrieNode *node, char character) {
+           ^
+maat.cpp:175:16: error: no matching function for call to 'add_edge_to_character'
+                        son_index = add_edge_to_character(first_character);
+                                    ^~~~~~~~~~~~~~~~~~~~~
+maat.cpp:138:12: note: candidate function not viable: requires 2 arguments, but 1 was provided
+inline int add_edge_to_character(TrieNode *node, char character) {
+           ^
+4 errors generated.
+./run.sh: line 2: ./maat: No such file or directory
+for n - 0.0002 seconds
+for new - 0.0001 seconds
+for new - 0.0001 seconds
+for new - 0.0001 seconds
+for new y - 0.0005 seconds
+for new yo - 0.0001 seconds
+for new yo - 0.0001 seconds
+for al - 0.0001 seconds
+for al - 0.0001 seconds
+for ala - 0.0001 seconds
+for al - 0.0001 seconds
+for a - 0.0002 seconds
+for a - 0.0002 seconds
+for al - 0.0001 seconds
+for alo - 0.0001 seconds
+for alo - 0.0001 seconds
