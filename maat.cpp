@@ -3,6 +3,11 @@
 #include <string.h>
 #include <time.h>
 
+#include <vector>
+#include <algorithm>
+
+using namespace std;
+
 #define DBG
 
 #ifdef DBG 
@@ -215,7 +220,7 @@ void add_to_trie(TrieNode *node, char *string, int index) {
 }
 
 // O(|string| ^ MAX_VARIATION)
-const int MAX_VARIATION = 0;
+const int MAX_VARIATION = 2;
 void add_to_trie_with_deletition_variants(TrieNode *node, char *string, int index, int variation) {
 	if (strlen(string) > 0) {	
 		if (variation < MAX_VARIATION) {
@@ -270,15 +275,117 @@ void build_trie() {
 // ====================================================================================================
 // IncNGTrie - algorithms
 
-void search_schetch() {
-	
+// ActiveState vector and iterator
+typedef vector<ActiveState> va;
+typedef vector<ActiveState>::iterator vait;
 
-	// expand
+// int vector and iterator
+typedef vector<int> vi;
+typedef vector<int>::iterator viit;
 
-
+char *string_from_state(ActiveState state) {
+	sprintf(buffer, "<%p, %d, %d>", state.node, (int)state.cursor, (int)state.incoordonation);
+	return (char *)memcpy(malloc(strlen(buffer) + 1), buffer, strlen(buffer) + 1);
 }
 
+va expand_state(ActiveState active_state) {
+	dprintf("expand_state %s\n", string_from_state(active_state));
+	va A = va();
 
+	// create expansion with deletition
+	for (char dq = 0; dq <= MAX_VARIATION - active_state.incoordonation; ++dq) {
+		A.push_back(*new_active_state(active_state.node, 
+									  active_state.cursor + dq, 
+									  active_state.incoordonation + dq));
+	}
+
+	TrieNode *node = active_state.node;
+
+	char ds = 1;
+	int son_index = -1;
+	while (active_state.incoordonation + ds <= MAX_VARIATION and 
+		   (son_index = son_index_for_character(node, DELETITION_MARKER)) != -1) {
+		for (int dq = 0; dq <= MAX_VARIATION - active_state.incoordonation; ++dq) {
+			int new_incoordonation = dq > ds ?: ds;
+			A.push_back(*new_active_state(&(node->sons[son_index]), 
+										  active_state.cursor + dq, 
+										  active_state.incoordonation + new_incoordonation));
+		}
+		node = &(node->sons[son_index]);
+		++ds;
+	}
+	
+	return A;	
+}
+
+vi indexes_from_node(TrieNode *node) {
+	if (node->n_sons == 0) {
+		vi ret = vi();
+		
+		for (NodeInfo *it = node->info; it != NULL; it=it->next) {
+			ret.push_back(it->index);
+		}
+
+		sort(ret.begin(), ret.end());
+		ret.erase(unique(ret.begin(), ret.end()), ret.end());
+		
+		return ret;
+	} else {
+		vi ret = vi();
+
+		for (int i = 0; i < node->n_sons; ++i) {
+			vi indexes_from_son = indexes_from_node(&(node->sons[i]));
+			ret.insert(ret.end(), indexes_from_son.begin(), indexes_from_son.end());
+		}
+
+		sort(ret.begin(), ret.end());
+		ret.erase(unique(ret.begin(), ret.end()), ret.end());
+
+		return ret;
+	}
+}
+
+vi inclemental_search(char *query) {
+	int query_length = strlen(query);
+
+	if (query_length == 0) {
+		return vi();
+	}
+
+	va A = expand_state(*new_active_state(root, 0, 0));
+
+	for (int v = 0; v < query_length; ++v) {
+		va A_ = va();
+		for (vait it = A.begin(); it < A.end(); ++it) {		
+			ActiveState state = *it;
+			if (state.cursor > v) {
+				A_.push_back(state);
+			} 
+			int son_index = son_index_for_character(state.node, query[v]);
+			if (son_index != -1) {
+				TrieNode *n_ = &(state.node->sons[son_index]);				
+				va expanded_state = expand_state(*new_active_state(n_, state.cursor + 1, state.incoordonation));
+				A_.insert(A_.end(), expanded_state.begin(), expanded_state.end());
+			}
+		}
+		A = A_;
+	}	
+
+	vi ret = vi();
+
+	for (vait it = A.begin(); it != A.end(); ++it) {
+		ActiveState state = *it;
+
+		vi indexes_from_state = indexes_from_node(state.node);
+
+		ret.insert(ret.end(), indexes_from_state.begin(), indexes_from_state.end());
+
+		sort(ret.begin(), ret.end());
+		ret.erase(unique(ret.begin(), ret.end()), ret.end());
+	}
+
+	return ret;
+}
 
 // ====================================================================================================
 
@@ -455,8 +562,14 @@ void solve_for(char *string) {
 
 	fifo_pipe = fopen("fifo_pipe", "w");
 
-	N_RET = 0;
-	iterate_trie(root, string);
+	// Old solutin bellow
+	// N_RET = 0;
+	// iterate_trie(root, string);
+
+	vi indexes = inclemental_search(string);
+	for (viit it = indexes.begin(); it != indexes.end(); ++it) {
+		fprintf(fifo_pipe, "%s***", locations[*it].name);
+	}
 
 	fclose(fifo_pipe);
 
@@ -510,7 +623,15 @@ int main(int argc, char **args) {
 
 	// debug_trie(root, "");
 
-	query_loop();
+	char query[128];
+	sprintf(query, "nw yok");
+
+	vi indexes = inclemental_search(query);
+	for (viit it = indexes.begin(); it != indexes.end(); ++it) {
+		dprintf("%s\n", locations[*it].name);
+	}
+
+	// query_loop();
 
 	return 0;
 }
