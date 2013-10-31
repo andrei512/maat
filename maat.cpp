@@ -111,6 +111,7 @@ typedef struct TrieNode {
 	char n_sons;
 	TrieNode *sons;
 	NodeInfo *info;
+	int index;
 } TrieNode;
 
 TrieNode *root = NULL;
@@ -222,6 +223,7 @@ void add_to_trie(TrieNode *node, char *string, int index) {
 // O(|string| ^ MAX_VARIATION)
 const int MAX_VARIATION = 2;
 void add_to_trie_with_deletition_variants(TrieNode *node, char *string, int index, int variation) {
+	node->index = index;
 	if (strlen(string) > 0) {	
 		if (variation < MAX_VARIATION) {
 			int deletiton_index = get_or_add_son_for_character(node, DELETITION_MARKER);
@@ -279,17 +281,23 @@ void build_trie() {
 typedef vector<ActiveState> va;
 typedef vector<ActiveState>::iterator vait;
 
+bool compare_state(const ActiveState &a, const ActiveState &b) {
+	if (a.incoordonation == b.incoordonation) {
+		return a.cursor > b.cursor;
+	}
+    return a.incoordonation < b.incoordonation;
+}
+
 // int vector and iterator
 typedef vector<int> vi;
 typedef vector<int>::iterator viit;
 
 char *string_from_state(ActiveState state) {
-	sprintf(buffer, "<%p, %d, %d>", state.node, (int)state.cursor, (int)state.incoordonation);
+	sprintf(buffer, "<%p - \"%s\", %d, %d>", state.node, locations[state.node->index].name, (int)state.cursor, (int)state.incoordonation);
 	return (char *)memcpy(malloc(strlen(buffer) + 1), buffer, strlen(buffer) + 1);
 }
 
 va expand_state(ActiveState active_state) {
-	dprintf("expand_state %s\n", string_from_state(active_state));
 	va A = va();
 
 	// create expansion with deletition
@@ -345,6 +353,8 @@ vi indexes_from_node(TrieNode *node) {
 	}
 }
 
+
+
 vi inclemental_search(char *query) {
 	int query_length = strlen(query);
 
@@ -370,6 +380,13 @@ vi inclemental_search(char *query) {
 		}
 		A = A_;
 	}	
+
+	// a bit of magik :)
+	// sort(A.begin(), A.end(), compare_state);
+
+	for (vait it = A.begin(); it != A.end(); ++it) {
+		dprintf("%s\n", string_from_state(*it));
+	}
 
 	vi ret = vi();
 
@@ -624,7 +641,7 @@ int main(int argc, char **args) {
 	// debug_trie(root, "");
 
 	char query[128];
-	sprintf(query, "nw yok");
+	sprintf(query, "mew yo");
 
 	vi indexes = inclemental_search(query);
 	for (viit it = indexes.begin(); it != indexes.end(); ++it) {
