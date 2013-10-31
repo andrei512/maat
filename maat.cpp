@@ -110,14 +110,40 @@ typedef struct TrieNode {
 
 TrieNode *root = NULL;
 
+typedef struct ActiveState {
+	TrieNode *node;
+	char cursor;
+	char incoordonation;
+} ActiveState;
+
+
+#ifdef DBG
+int N_NODES = 0;
+#endif
+
+ActiveState *new_active_state(TrieNode *node, char cursor, char incoordonation) {
+	ActiveState *active_state = (ActiveState *)malloc(sizeof(ActiveState));
+
+	active_state->node = node;
+	active_state->cursor = cursor;
+	active_state->incoordonation = incoordonation;
+
+	return active_state;
+}
+
 // O(1)
-TrieNode *newNode(char character) {
+TrieNode *newNode(char character) {	
 	TrieNode *node = (TrieNode *)malloc(sizeof(TrieNode));
 
 	node->character = character;
 	node->n_sons = 0;
 	node->sons = NULL;
 	node->info = NULL;	
+
+	#ifdef DBG
+	++N_NODES;
+	#endif
+
 
 	return node;
 }
@@ -135,6 +161,7 @@ inline void add_index_to_node_info(TrieNode *node, int index) {
 	}
 }
 
+// O(n_sons)
 inline int add_edge_to_character(TrieNode *node, char character) {
 	// get the old list
 	TrieNode *old_sons = node->sons;
@@ -153,6 +180,7 @@ inline int add_edge_to_character(TrieNode *node, char character) {
 	return son_index;	
 }
 
+// O(n_sons)
 inline int son_index_for_character(TrieNode *node, char character) {
 	for (int i = 0; i < node->n_sons; ++i) {
 		TrieNode son = node->sons[i];
@@ -163,6 +191,7 @@ inline int son_index_for_character(TrieNode *node, char character) {
 	return -1;
 }
 
+// O(n_sons)
 inline int get_or_add_son_for_character(TrieNode *node, char character) {
 	int son_index = son_index_for_character(node, character);
 
@@ -186,7 +215,7 @@ void add_to_trie(TrieNode *node, char *string, int index) {
 }
 
 // O(|string| ^ MAX_VARIATION)
-const int MAX_VARIATION = 3;
+const int MAX_VARIATION = 0;
 void add_to_trie_with_deletition_variants(TrieNode *node, char *string, int index, int variation) {
 	if (strlen(string) > 0) {	
 		if (variation < MAX_VARIATION) {
@@ -219,7 +248,11 @@ bool valid_string(char *string) {
 
 // O(N * |string|)
 void build_trie() {
-	root = newNode(0); // beacuse money is the root of all evil
+	#ifdef DBG
+	N_NODES = 0;
+	#endif
+
+	root = newNode(-1); 
 
 	for (int i = 0; i < N; ++i) {	
 		if (valid_string(locations[i].name) == false) {
@@ -228,7 +261,24 @@ void build_trie() {
 		}
 		add_to_trie_with_deletition_variants(root, locations[i].name, i, 0);
 	}
+
+	#ifdef DBG
+	dprintf("the trie has %d nodes\n", N_NODES);
+	#endif
 }
+
+// ====================================================================================================
+// IncNGTrie - algorithms
+
+void search_schetch() {
+	
+
+	// expand
+
+
+}
+
+
 
 // ====================================================================================================
 

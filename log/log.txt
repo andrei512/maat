@@ -579,3 +579,10 @@ for a - 0.0002 seconds
 for al - 0.0001 seconds
 for alo - 0.0001 seconds
 for alo - 0.0001 seconds
+for ne - 0.0016 seconds
+for new - 0.0006 seconds
+for new - 0.0006 seconds
+for new - 0.0008 seconds
+for new yo - 0.0001 seconds
+for new yo - 0.0001 seconds
+for new yo - 0.0001 seconds
