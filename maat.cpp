@@ -461,7 +461,18 @@ void debug_trie(TrieNode *node, char *prefix) {
 	}
 }
 
+void demo_query() {
+	char query[128];
+	sprintf(query, "mew yo");
+
+	vi indexes = inclemental_search(query);
+	for (viit it = indexes.begin(); it != indexes.end(); ++it) {
+		dprintf("%s\n", locations[*it].name);
+	}
+}
+
 int main(int argc, char **args) {
+
 	if (argc < 2) {
 		printf("Please specify an input file\n");
 		return 1; 
@@ -470,17 +481,9 @@ int main(int argc, char **args) {
 	load_input(args[1]);
 	build_trie();
 
-	// debug_trie(root, "");
+	// demo_query();
 
-	char query[128];
-	sprintf(query, "mew yo");
-
-	vi indexes = inclemental_search(query);
-	for (viit it = indexes.begin(); it != indexes.end(); ++it) {
-		dprintf("%s\n", locations[*it].name);
-	}
-
-	// query_loop();
+	query_loop();
 
 	return 0;
 }

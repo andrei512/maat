@@ -46,3 +46,2693 @@ for mw y - 0.0282 seconds
 for mw y - 0.0329 seconds
 for mw y - 0.0290 seconds
 for mw yo - 0.0022 seconds
+the trie has 2974805 nodes
+for mw yo - 0.0001 seconds
+for mw yo - 0.0001 seconds
+for mw yo - 0.0001 seconds
+for mw yo - 0.0001 seconds
+for mw yo - 0.0001 seconds
+<0x7facb789cdf0 - "wyomissing", 4, 1>
+<0x7facb789cdf0 - "wyomissing", 4, 1>
+for w yo - 0.0002 seconds
+<0x7faca9ac94b0 - "new york mills", 5, 1>
+<0x7facb1d3a3e0 - "new oxford", 5, 1>
+<0x7facb1d3a260 - "new york mills", 5, 1>
+<0x7faca9ac94b0 - "new york mills", 6, 1>
+for nw yo - 0.0001 seconds
+<0x7faca9ac94b0 - "new york mills", 5, 1>
+<0x7facb1d3a3e0 - "new oxford", 5, 1>
+<0x7facb1d3a260 - "new york mills", 5, 1>
+<0x7faca9ac94b0 - "new york mills", 6, 1>
+for nw yo - 0.0001 seconds
+<0x7faca9ac94b0 - "new york mills", 5, 1>
+<0x7facb1d3a3e0 - "new oxford", 5, 1>
+<0x7facb1d3a260 - "new york mills", 5, 1>
+<0x7faca9ac94b0 - "new york mills", 6, 1>
+for nw yo - 0.0002 seconds
+<0x7facb789cdf0 - "wyomissing", 4, 1>
+<0x7facb789cdf0 - "wyomissing", 4, 1>
+for w yo - 0.0001 seconds
+for mw yo - 0.0001 seconds
+<0x7faca9ac9340 - "new york mills", 6, 1>
+for mew yo - 0.0001 seconds
+<0x7faca9ac9340 - "new york mills", 6, 1>
+for mew yo - 0.0001 seconds
+<0x7facb1302290 - "mews at legacy green", 5, 1>
+<0x7facb1d39d10 - "new york mills", 5, 1>
+for mew y - 0.0001 seconds
+the trie has 22706458 nodes
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 1>
+<0x7fbe7d753620 - "moyamensing", 5, 2>
+<0x7fbe79525220 - "moyamensing", 4, 2>
+<0x7fbe79525220 - "moyamensing", 5, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 1>
+<0x7fbe7d7536e0 - "mt talbert", 5, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 5, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 1>
+<0x7fbe7d7536c0 - "mowrystown", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe7a187b00 - "miry run", 4, 2>
+<0x7fbe7a187d40 - "mud island", 4, 2>
+<0x7fbe7a187d20 - "mukwonago ", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe4922fd20 - "why", 4, 2>
+<0x7fbe4922faa0 - "w. e. combs", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 1>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 4, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 1>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 1>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe544018a0 - "smyth", 4, 2>
+<0x7fbe544018a0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 4, 1>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 1>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 5, 2>
+<0x7fbea2808da0 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbe543ec590 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543899e0 - "amaya", 5, 2>
+<0x7fbe54389b60 - "emsworth", 5, 2>
+<0x7fbe7f0349d0 - "new york mills", 4, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbe71730330 - "sawyerwood", 4, 2>
+<0x7fbe71730170 - "t w knox", 4, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbe4a5537f0 - "tom watkins", 4, 2>
+<0x7fbe4a553830 - "elmwood village", 4, 2>
+for mw y - 0.0304 seconds
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 1>
+<0x7fbe7d753620 - "moyamensing", 5, 2>
+<0x7fbe79525220 - "moyamensing", 4, 2>
+<0x7fbe79525220 - "moyamensing", 5, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 1>
+<0x7fbe7d7536e0 - "mt talbert", 5, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 5, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 1>
+<0x7fbe7d7536c0 - "mowrystown", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe7a187b00 - "miry run", 4, 2>
+<0x7fbe7a187d40 - "mud island", 4, 2>
+<0x7fbe7a187d20 - "mukwonago ", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe4922fd20 - "why", 4, 2>
+<0x7fbe4922faa0 - "w. e. combs", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 1>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 4, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 1>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 1>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe544018a0 - "smyth", 4, 2>
+<0x7fbe544018a0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 4, 1>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 1>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 5, 2>
+<0x7fbea2808da0 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbe543ec590 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543899e0 - "amaya", 5, 2>
+<0x7fbe54389b60 - "emsworth", 5, 2>
+<0x7fbe7f0349d0 - "new york mills", 4, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbe71730330 - "sawyerwood", 4, 2>
+<0x7fbe71730170 - "t w knox", 4, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbe4a5537f0 - "tom watkins", 4, 2>
+<0x7fbe4a553830 - "elmwood village", 4, 2>
+for mw y - 0.0308 seconds
+<0x7fbe7d856b70 - "mt ogden", 5, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 5, 2>
+<0x7fbe7d72f930 - "miwok", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe79525320 - "mayors heights", 5, 1>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe79505bc0 - "mayors heights", 5, 2>
+<0x7fbe79505bc0 - "mayors heights", 6, 2>
+<0x7fbe7d753620 - "moyamensing", 5, 2>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe7d746fd0 - "maywood village", 5, 2>
+<0x7fbe79525220 - "moyamensing", 5, 2>
+<0x7fbe7d746fd0 - "maywood village", 6, 2>
+<0x7fbe7d856b70 - "mt ogden", 5, 1>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d7d04e0 - "mt ogden", 5, 2>
+<0x7fbe7d7d04e0 - "mt ogden", 6, 2>
+<0x7fbe7d7536e0 - "mt talbert", 5, 2>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 5, 2>
+<0x7fbe7d856ab0 - "mt talbert", 5, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 6, 2>
+<0x7fbe7d72f930 - "miwok", 5, 1>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7bf703c0 - "miwok", 5, 2>
+<0x7fbe7bf703c0 - "miwok", 6, 2>
+<0x7fbe7d7536c0 - "mowrystown", 5, 2>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe7d8c6f90 - "mt. olivet", 5, 2>
+<0x7fbe7a9068a0 - "mukwonago ", 5, 2>
+<0x7fbe4a4d3600 - "wyomissing", 5, 2>
+<0x7fbe79525320 - "mayors heights", 5, 2>
+<0x7fbe7d856b70 - "mt ogden", 5, 2>
+<0x7fbe7d72f930 - "miwok", 5, 2>
+<0x7fbe4a4d3600 - "wyomissing", 5, 2>
+<0x7fbe9fea2610 - "jw corbett", 5, 2>
+<0x7fbe8f646db0 - "emsworth", 5, 2>
+<0x7fbe4a5506c0 - "y mountain", 5, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea2610 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbe9fea2610 - "jw corbett", 6, 2>
+<0x7fbe65bcfd20 - "twombly ridge", 5, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe544018a0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe95331960 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbea4bef680 - "amwell - delaware", 5, 2>
+<0x7fbe543ec770 - "smoky ridge estates", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbe8f646db0 - "emsworth", 5, 2>
+<0x7fbe54389a40 - "immokalee", 5, 2>
+<0x7fbe543899e0 - "amaya", 5, 2>
+<0x7fbe54389b60 - "emsworth", 5, 2>
+<0x7fbe8f646db0 - "emsworth", 6, 2>
+<0x7fbea331fe50 - "new york mills", 5, 2>
+<0x7fbe7f034b70 - "new oxford", 5, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbea331fe50 - "new york mills", 6, 2>
+<0x7fbe8f32e6c0 - "elmwood village", 5, 2>
+for mw yo - 0.0027 seconds
+<0x7fbe79505be0 - "mayors heights", 6, 1>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe79505e70 - "mayors heights", 6, 2>
+<0x7fbe79505e70 - "mayors heights", 7, 2>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe79505bc0 - "mayors heights", 6, 2>
+<0x7fbe79525360 - "mayridge", 6, 2>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe7d746ef0 - "meyersdale", 6, 2>
+<0x7fbe7d746fd0 - "maywood village", 6, 2>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d7d04e0 - "mt ogden", 6, 2>
+<0x7fbe7d856ad0 - "mt royall - harrington place", 6, 2>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d82e2d0 - "mt braddock", 6, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 6, 2>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7bf703c0 - "miwok", 6, 2>
+<0x7fbe7d72f990 - "mowrystown", 6, 2>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7d72f6a0 - "mower", 6, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe79505be0 - "mayors heights", 6, 2>
+<0x7fbe9fea2650 - "jw corbett", 6, 2>
+<0x7fbe8f646df0 - "emsworth", 6, 2>
+<0x7fbe9fea2650 - "jw corbett", 6, 2>
+<0x7fbe9fea2610 - "jw corbett", 6, 2>
+<0x7fbe9fea2650 - "jw corbett", 7, 2>
+<0x7fbe5fb68cd0 - "two rivers east", 6, 2>
+<0x7fbe544018e0 - "smyrna mills", 6, 2>
+<0x7fbe544017f0 - "smyer", 6, 2>
+<0x7fbe54389f60 - "emorywood estates", 6, 2>
+<0x7fbe544018e0 - "smyrna mills", 6, 2>
+<0x7fbe8f646df0 - "emsworth", 6, 2>
+<0x7fbe9dd5cfa0 - "emporium", 6, 2>
+<0x7fbe8f646db0 - "emsworth", 6, 2>
+<0x7fbe8f646df0 - "emsworth", 7, 2>
+<0x7fbea331fe90 - "new york mills", 6, 2>
+<0x7fbe7ed99ce0 - "new orleans south", 6, 2>
+<0x7fbea331fe50 - "new york mills", 6, 2>
+<0x7fbea331fe90 - "new york mills", 7, 2>
+for mw yor - 0.0006 seconds
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe79505e70 - "mayors heights", 7, 2>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe7bf703e0 - "miwok", 7, 2>
+<0x7fbe7bf703e0 - "miwok", 7, 2>
+<0x7fbe9fea2650 - "jw corbett", 7, 2>
+<0x7fbe8f646df0 - "emsworth", 7, 2>
+<0x7fbea331fed0 - "new york mills", 7, 2>
+<0x7fbea331fe90 - "new york mills", 7, 2>
+<0x7fbea331fed0 - "new york mills", 8, 2>
+for mw york - 0.0002 seconds
+<0x7fbe79505be0 - "mayors heights", 6, 1>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe79505e70 - "mayors heights", 6, 2>
+<0x7fbe79505e70 - "mayors heights", 7, 2>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe79505bc0 - "mayors heights", 6, 2>
+<0x7fbe79525360 - "mayridge", 6, 2>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe79505be0 - "mayors heights", 7, 2>
+<0x7fbe7d746ef0 - "meyersdale", 6, 2>
+<0x7fbe7d746fd0 - "maywood village", 6, 2>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d7d04e0 - "mt ogden", 6, 2>
+<0x7fbe7d856ad0 - "mt royall - harrington place", 6, 2>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d82e2d0 - "mt braddock", 6, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 6, 2>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7bf703c0 - "miwok", 6, 2>
+<0x7fbe7d72f990 - "mowrystown", 6, 2>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7d72f6a0 - "mower", 6, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe79505be0 - "mayors heights", 6, 2>
+<0x7fbe9fea2650 - "jw corbett", 6, 2>
+<0x7fbe8f646df0 - "emsworth", 6, 2>
+<0x7fbe9fea2650 - "jw corbett", 6, 2>
+<0x7fbe9fea2610 - "jw corbett", 6, 2>
+<0x7fbe9fea2650 - "jw corbett", 7, 2>
+<0x7fbe5fb68cd0 - "two rivers east", 6, 2>
+<0x7fbe544018e0 - "smyrna mills", 6, 2>
+<0x7fbe544017f0 - "smyer", 6, 2>
+<0x7fbe54389f60 - "emorywood estates", 6, 2>
+<0x7fbe544018e0 - "smyrna mills", 6, 2>
+<0x7fbe8f646df0 - "emsworth", 6, 2>
+<0x7fbe9dd5cfa0 - "emporium", 6, 2>
+<0x7fbe8f646db0 - "emsworth", 6, 2>
+<0x7fbe8f646df0 - "emsworth", 7, 2>
+<0x7fbea331fe90 - "new york mills", 6, 2>
+<0x7fbe7ed99ce0 - "new orleans south", 6, 2>
+<0x7fbea331fe50 - "new york mills", 6, 2>
+<0x7fbea331fe90 - "new york mills", 7, 2>
+for mw yor - 0.0006 seconds
+<0x7fbe7d856b70 - "mt ogden", 5, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 5, 2>
+<0x7fbe7d72f930 - "miwok", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe79525320 - "mayors heights", 5, 1>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe79505bc0 - "mayors heights", 5, 2>
+<0x7fbe79505bc0 - "mayors heights", 6, 2>
+<0x7fbe7d753620 - "moyamensing", 5, 2>
+<0x7fbe79525320 - "mayors heights", 6, 2>
+<0x7fbe7d746fd0 - "maywood village", 5, 2>
+<0x7fbe79525220 - "moyamensing", 5, 2>
+<0x7fbe7d746fd0 - "maywood village", 6, 2>
+<0x7fbe7d856b70 - "mt ogden", 5, 1>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d7d04e0 - "mt ogden", 5, 2>
+<0x7fbe7d7d04e0 - "mt ogden", 6, 2>
+<0x7fbe7d7536e0 - "mt talbert", 5, 2>
+<0x7fbe7d856b70 - "mt ogden", 6, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 5, 2>
+<0x7fbe7d856ab0 - "mt talbert", 5, 2>
+<0x7fbe7d82e350 - "mt royall - harrington place", 6, 2>
+<0x7fbe7d72f930 - "miwok", 5, 1>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7bf703c0 - "miwok", 5, 2>
+<0x7fbe7bf703c0 - "miwok", 6, 2>
+<0x7fbe7d7536c0 - "mowrystown", 5, 2>
+<0x7fbe7d72f930 - "miwok", 6, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe7d8c6f90 - "mt. olivet", 5, 2>
+<0x7fbe7a9068a0 - "mukwonago ", 5, 2>
+<0x7fbe4a4d3600 - "wyomissing", 5, 2>
+<0x7fbe79525320 - "mayors heights", 5, 2>
+<0x7fbe7d856b70 - "mt ogden", 5, 2>
+<0x7fbe7d72f930 - "miwok", 5, 2>
+<0x7fbe4a4d3600 - "wyomissing", 5, 2>
+<0x7fbe9fea2610 - "jw corbett", 5, 2>
+<0x7fbe8f646db0 - "emsworth", 5, 2>
+<0x7fbe4a5506c0 - "y mountain", 5, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea2610 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbe9fea2610 - "jw corbett", 6, 2>
+<0x7fbe65bcfd20 - "twombly ridge", 5, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe544018a0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe95331960 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbea4bef680 - "amwell - delaware", 5, 2>
+<0x7fbe543ec770 - "smoky ridge estates", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbe8f646db0 - "emsworth", 5, 2>
+<0x7fbe54389a40 - "immokalee", 5, 2>
+<0x7fbe543899e0 - "amaya", 5, 2>
+<0x7fbe54389b60 - "emsworth", 5, 2>
+<0x7fbe8f646db0 - "emsworth", 6, 2>
+<0x7fbea331fe50 - "new york mills", 5, 2>
+<0x7fbe7f034b70 - "new oxford", 5, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbea331fe50 - "new york mills", 6, 2>
+<0x7fbe8f32e6c0 - "elmwood village", 5, 2>
+for mw yo - 0.0023 seconds
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 1>
+<0x7fbe7d753620 - "moyamensing", 5, 2>
+<0x7fbe79525220 - "moyamensing", 4, 2>
+<0x7fbe79525220 - "moyamensing", 5, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 1>
+<0x7fbe7d7536e0 - "mt talbert", 5, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 5, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 1>
+<0x7fbe7d7536c0 - "mowrystown", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe7a187b00 - "miry run", 4, 2>
+<0x7fbe7a187d40 - "mud island", 4, 2>
+<0x7fbe7a187d20 - "mukwonago ", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe4922fd20 - "why", 4, 2>
+<0x7fbe4922faa0 - "w. e. combs", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 1>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 4, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 1>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 1>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe544018a0 - "smyth", 4, 2>
+<0x7fbe544018a0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 4, 1>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 1>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 5, 2>
+<0x7fbea2808da0 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbe543ec590 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543899e0 - "amaya", 5, 2>
+<0x7fbe54389b60 - "emsworth", 5, 2>
+<0x7fbe7f0349d0 - "new york mills", 4, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbe71730330 - "sawyerwood", 4, 2>
+<0x7fbe71730170 - "t w knox", 4, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbe4a5537f0 - "tom watkins", 4, 2>
+<0x7fbe4a553830 - "elmwood village", 4, 2>
+for mw y - 0.0288 seconds
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 4, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 4, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 1>
+<0x7fbe7d753620 - "moyamensing", 5, 2>
+<0x7fbe79525220 - "moyamensing", 4, 2>
+<0x7fbe79525220 - "moyamensing", 5, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 1>
+<0x7fbe7d7536e0 - "mt talbert", 5, 2>
+<0x7fbe7d856ab0 - "mt talbert", 4, 2>
+<0x7fbe7d856ab0 - "mt talbert", 5, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 1>
+<0x7fbe7d7536c0 - "mowrystown", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 4, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 5, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 5, 2>
+<0x7fbe7d72f8f0 - "mowrystown", 5, 2>
+<0x7fbe7d72f6e0 - "mowrystown", 6, 2>
+<0x7fbe7d72f660 - "mews at legacy green", 6, 2>
+<0x7fbe7a187b00 - "miry run", 4, 2>
+<0x7fbe7a187d40 - "mud island", 4, 2>
+<0x7fbe7a187d20 - "mukwonago ", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe4922fd20 - "why", 4, 2>
+<0x7fbe4922faa0 - "w. e. combs", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7759dcf0 - "m streets", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe7d753620 - "moyamensing", 4, 2>
+<0x7fbe7d7536e0 - "mt talbert", 4, 2>
+<0x7fbe7d7536c0 - "mowrystown", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe7dc1f5f0 - "mystic mall", 4, 2>
+<0x7fbe7dc1f4f0 - "m streets", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 2>
+<0x7fbe543ec790 - "gm square", 4, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 1>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 4, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 1>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe543ec7d0 - "smyth", 4, 1>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe544018a0 - "smyth", 4, 2>
+<0x7fbe544018a0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 4, 1>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe95331960 - "gm square", 4, 2>
+<0x7fbe95331960 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 4, 1>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbea4bef680 - "amwell - delaware", 4, 2>
+<0x7fbea4bef680 - "amwell - delaware", 5, 2>
+<0x7fbea2808da0 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543ec7d0 - "smyth", 5, 2>
+<0x7fbe543ec790 - "gm square", 5, 2>
+<0x7fbe543ec710 - "amwell - delaware", 5, 2>
+<0x7fbe543899e0 - "amaya", 4, 2>
+<0x7fbe54389b60 - "emsworth", 4, 2>
+<0x7fbe543ec590 - "umstead ridge - glenwood station", 4, 2>
+<0x7fbe543899e0 - "amaya", 5, 2>
+<0x7fbe54389b60 - "emsworth", 5, 2>
+<0x7fbe7f0349d0 - "new york mills", 4, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbe71730330 - "sawyerwood", 4, 2>
+<0x7fbe71730170 - "t w knox", 4, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbe4a5537f0 - "tom watkins", 4, 2>
+<0x7fbe4a553830 - "elmwood village", 4, 2>
+for mw y - 0.0299 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f037840 - "new york mills", 4, 1>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbea3320c30 - "new york mills", 4, 2>
+<0x7fbea3320c30 - "new york mills", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 4, 2>
+<0x7fbe7f0377c0 - "new york mills", 4, 2>
+<0x7fbe7efb33e0 - "new lyme", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7f0370c0 - "newry", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 1>
+<0x7fbe7f037840 - "new york mills", 5, 1>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbea3320c30 - "new york mills", 5, 2>
+<0x7fbea3320c30 - "new york mills", 6, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe7f0377c0 - "new york mills", 4, 2>
+<0x7fbe7efb33e0 - "new lyme", 5, 2>
+<0x7fbe7f0377c0 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 6, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe7f0370c0 - "newry", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f0370c0 - "newry", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 1>
+<0x7fbe7f4c8840 - "new york mills", 5, 1>
+<0x7fbe7f037840 - "new york mills", 6, 1>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbea3320c30 - "new york mills", 6, 2>
+<0x7fbea3320c30 - "new york mills", 7, 2>
+<0x7fbe7f4c8840 - "new york mills", 6, 2>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbe7f0377c0 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 6, 2>
+<0x7fbe7f0377c0 - "new york mills", 6, 2>
+<0x7fbe7efb33e0 - "new lyme", 7, 2>
+<0x7fbe7f4c91e0 - "nowthen", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 6, 2>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f0370c0 - "newry", 5, 2>
+<0x7fbe7f4c8820 - "nowthen", 5, 2>
+<0x7fbe7f0370c0 - "newry", 6, 2>
+<0x7fbe7f036b70 - "new york mills", 4, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbe7f48d920 - "noe valley", 4, 2>
+<0x7fbe7f036b70 - "new york mills", 5, 2>
+<0x7fbe7f48dbe0 - "nutwood", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe4922fd20 - "why", 4, 2>
+<0x7fbe4922faa0 - "w. e. combs", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 5, 2>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 1>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 4, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 1>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 4, 1>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 5, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 5, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 5, 2>
+<0x7fbe544d21a0 - "snow woods", 6, 2>
+<0x7fbe7f0349d0 - "new york mills", 4, 2>
+<0x7fbe61824090 - "san ysidro", 4, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbe71730330 - "sawyerwood", 4, 2>
+<0x7fbe71730170 - "t w knox", 4, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+<0x7fbe77563290 - "von ormy", 4, 2>
+<0x7fbe61824090 - "san ysidro", 5, 2>
+<0x7fbe775634d0 - "sunwest", 4, 2>
+for nw y - 0.0681 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f037840 - "new york mills", 4, 1>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbea3320c30 - "new york mills", 4, 2>
+<0x7fbea3320c30 - "new york mills", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 4, 2>
+<0x7fbe7f0377c0 - "new york mills", 4, 2>
+<0x7fbe7efb33e0 - "new lyme", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7f0370c0 - "newry", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 1>
+<0x7fbe7f037840 - "new york mills", 5, 1>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbea3320c30 - "new york mills", 5, 2>
+<0x7fbea3320c30 - "new york mills", 6, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe7f0377c0 - "new york mills", 4, 2>
+<0x7fbe7efb33e0 - "new lyme", 5, 2>
+<0x7fbe7f0377c0 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 6, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe7f0370c0 - "newry", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f0370c0 - "newry", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 1>
+<0x7fbe7f4c8840 - "new york mills", 5, 1>
+<0x7fbe7f037840 - "new york mills", 6, 1>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbea3320c30 - "new york mills", 6, 2>
+<0x7fbea3320c30 - "new york mills", 7, 2>
+<0x7fbe7f4c8840 - "new york mills", 6, 2>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbe7f0377c0 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 6, 2>
+<0x7fbe7f0377c0 - "new york mills", 6, 2>
+<0x7fbe7efb33e0 - "new lyme", 7, 2>
+<0x7fbe7f4c91e0 - "nowthen", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 6, 2>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f0370c0 - "newry", 5, 2>
+<0x7fbe7f4c8820 - "nowthen", 5, 2>
+<0x7fbe7f0370c0 - "newry", 6, 2>
+<0x7fbe7f036b70 - "new york mills", 4, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbe7f48d920 - "noe valley", 4, 2>
+<0x7fbe7f036b70 - "new york mills", 5, 2>
+<0x7fbe7f48dbe0 - "nutwood", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe4922fd20 - "why", 4, 2>
+<0x7fbe4922faa0 - "w. e. combs", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 5, 2>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 1>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 4, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 1>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 4, 1>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 5, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 5, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 5, 2>
+<0x7fbe544d21a0 - "snow woods", 6, 2>
+<0x7fbe7f0349d0 - "new york mills", 4, 2>
+<0x7fbe61824090 - "san ysidro", 4, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbe71730330 - "sawyerwood", 4, 2>
+<0x7fbe71730170 - "t w knox", 4, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+<0x7fbe77563290 - "von ormy", 4, 2>
+<0x7fbe61824090 - "san ysidro", 5, 2>
+<0x7fbe775634d0 - "sunwest", 4, 2>
+for nw y - 0.0700 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f037840 - "new york mills", 4, 1>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbea3320c30 - "new york mills", 4, 2>
+<0x7fbea3320c30 - "new york mills", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 4, 2>
+<0x7fbe7f0377c0 - "new york mills", 4, 2>
+<0x7fbe7efb33e0 - "new lyme", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7f0370c0 - "newry", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 1>
+<0x7fbe7f037840 - "new york mills", 5, 1>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbea3320c30 - "new york mills", 5, 2>
+<0x7fbea3320c30 - "new york mills", 6, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe7f0377c0 - "new york mills", 4, 2>
+<0x7fbe7efb33e0 - "new lyme", 5, 2>
+<0x7fbe7f0377c0 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 6, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe7f0370c0 - "newry", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f0370c0 - "newry", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 1>
+<0x7fbe7f4c8840 - "new york mills", 5, 1>
+<0x7fbe7f037840 - "new york mills", 6, 1>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbea3320c30 - "new york mills", 6, 2>
+<0x7fbea3320c30 - "new york mills", 7, 2>
+<0x7fbe7f4c8840 - "new york mills", 6, 2>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbe7f0377c0 - "new york mills", 5, 2>
+<0x7fbe7efb33e0 - "new lyme", 6, 2>
+<0x7fbe7f0377c0 - "new york mills", 6, 2>
+<0x7fbe7efb33e0 - "new lyme", 7, 2>
+<0x7fbe7f4c91e0 - "nowthen", 5, 2>
+<0x7fbe7f4c8840 - "new york mills", 6, 2>
+<0x7fbe7f037840 - "new york mills", 7, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f0370c0 - "newry", 5, 2>
+<0x7fbe7f4c8820 - "nowthen", 5, 2>
+<0x7fbe7f0370c0 - "newry", 6, 2>
+<0x7fbe7f036b70 - "new york mills", 4, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbe7f48d920 - "noe valley", 4, 2>
+<0x7fbe7f036b70 - "new york mills", 5, 2>
+<0x7fbe7f48dbe0 - "nutwood", 4, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe4922fd20 - "why", 4, 2>
+<0x7fbe4922faa0 - "w. e. combs", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 4, 2>
+<0x7fbe7f037840 - "new york mills", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8840 - "new york mills", 5, 2>
+<0x7fbe7f037840 - "new york mills", 6, 2>
+<0x7fbe4a2225f0 - "wytopitlock", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 5, 2>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 4, 1>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe5b1f9240 - "swygert", 4, 2>
+<0x7fbe5b1f9240 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 4, 1>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe9fea27a0 - "jw corbett", 4, 2>
+<0x7fbe9fea27a0 - "jw corbett", 5, 2>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfda0 - "swygert", 5, 2>
+<0x7fbe65bcfdc0 - "jw corbett", 5, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 4, 2>
+<0x7fbe5b1f2630 - "two rivers east", 4, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbe5b1f27b0 - "swoyersville", 5, 2>
+<0x7fbe5b1f2630 - "two rivers east", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 4, 1>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 5, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544d21a0 - "snow woods", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 5, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 5, 2>
+<0x7fbe544d21a0 - "snow woods", 6, 2>
+<0x7fbe7f0349d0 - "new york mills", 4, 2>
+<0x7fbe61824090 - "san ysidro", 4, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbe71730330 - "sawyerwood", 4, 2>
+<0x7fbe71730170 - "t w knox", 4, 2>
+<0x7fbe7f0349d0 - "new york mills", 5, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+<0x7fbe77563290 - "von ormy", 4, 2>
+<0x7fbe61824090 - "san ysidro", 5, 2>
+<0x7fbe775634d0 - "sunwest", 4, 2>
+for nw y - 0.0666 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe7f036b70 - "new york mills", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 3, 2>
+<0x7fbe7f48d920 - "noe valley", 3, 2>
+<0x7fbe7f036b70 - "new york mills", 4, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbe7f48d920 - "noe valley", 4, 2>
+<0x7fbe7f036b70 - "new york mills", 5, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe9e6f9010 - "in town", 3, 2>
+<0x7fbe9dda7900 - "in town", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe9e6f9010 - "in town", 3, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 3, 2>
+<0x7fbea2808cc0 - "y section", 3, 2>
+<0x7fbe5b407080 - "y section", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe9e6f9010 - "in town", 3, 1>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 3, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe9e6f9010 - "in town", 4, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbea2808b80 - "wytopitlock", 3, 1>
+<0x7fbea2808b80 - "wytopitlock", 4, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 4, 2>
+<0x7fbea2808cc0 - "y section", 3, 1>
+<0x7fbea2808cc0 - "y section", 4, 2>
+<0x7fbe5b407080 - "y section", 3, 2>
+<0x7fbe5b407080 - "y section", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 4, 1>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9dda7900 - "in town", 4, 2>
+<0x7fbe9dda7900 - "in town", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f9010 - "in town", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe544b2310 - "ono road lake - bear creek", 5, 2>
+<0x7fbe61824090 - "san ysidro", 3, 2>
+<0x7fbe6111f3f0 - "la yuca", 3, 2>
+<0x7fbe775633d0 - "tonyville", 3, 2>
+<0x7fbe77563290 - "von ormy", 3, 2>
+<0x7fbe61824090 - "san ysidro", 4, 2>
+<0x7fbea2808760 - "zayante", 3, 2>
+<0x7fbea2808660 - "ye smith", 3, 2>
+<0x7fbe6111f3f0 - "la yuca", 4, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+<0x7fbe77563290 - "von ormy", 4, 2>
+<0x7fbe61824090 - "san ysidro", 5, 2>
+for n y - 0.7005 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 2, 0>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 2, 1>
+<0x7fbe62e2eb00 - "nyes corner", 3, 1>
+<0x7fbe62e2eb00 - "nyes corner", 4, 1>
+<0x7fbe62e38e90 - "nyes corner", 2, 2>
+<0x7fbe62e38e90 - "nyes corner", 3, 2>
+<0x7fbe62e38e90 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 2, 1>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 2, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 1>
+<0x7fbe7f4c93a0 - "noyack", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe7f48db40 - "navy yard city", 2, 2>
+<0x7fbe7f4c9180 - "nyes corner", 2, 2>
+<0x7fbe7f48db40 - "navy yard city", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbea280a020 - "yznaga", 2, 1>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbe4a8a5070 - "yznaga", 2, 2>
+<0x7fbe4a8a5070 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbea32ad000 - "zuehl", 2, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 2, 1>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 2, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544b2430 - "only", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbea2808b80 - "wytopitlock", 2, 1>
+<0x7fbea2808b80 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 2, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 1>
+<0x7fbe9e6f9070 - "snyderville", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbea2809c00 - "zuehl", 2, 1>
+<0x7fbea2808b80 - "wytopitlock", 3, 1>
+<0x7fbea2808b80 - "wytopitlock", 4, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe775633d0 - "tonyville", 2, 2>
+<0x7fbea2808760 - "zayante", 2, 2>
+<0x7fbea2808480 - "zenith", 2, 2>
+<0x7fbe775633d0 - "tonyville", 3, 2>
+<0x7fbea2808a00 - "zuehl", 2, 2>
+<0x7fbea2808760 - "zayante", 3, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+for ny - 6.2393 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 2, 0>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 2, 1>
+<0x7fbe62e2eb00 - "nyes corner", 3, 1>
+<0x7fbe62e2eb00 - "nyes corner", 4, 1>
+<0x7fbe62e38e90 - "nyes corner", 2, 2>
+<0x7fbe62e38e90 - "nyes corner", 3, 2>
+<0x7fbe62e38e90 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 2, 1>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 2, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 1>
+<0x7fbe7f4c93a0 - "noyack", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe7f48db40 - "navy yard city", 2, 2>
+<0x7fbe7f4c9180 - "nyes corner", 2, 2>
+<0x7fbe7f48db40 - "navy yard city", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbea280a020 - "yznaga", 2, 1>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbe4a8a5070 - "yznaga", 2, 2>
+<0x7fbe4a8a5070 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbea32ad000 - "zuehl", 2, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 2, 1>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 2, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544b2430 - "only", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbea2808b80 - "wytopitlock", 2, 1>
+<0x7fbea2808b80 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 2, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 1>
+<0x7fbe9e6f9070 - "snyderville", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbea2809c00 - "zuehl", 2, 1>
+<0x7fbea2808b80 - "wytopitlock", 3, 1>
+<0x7fbea2808b80 - "wytopitlock", 4, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe775633d0 - "tonyville", 2, 2>
+<0x7fbea2808760 - "zayante", 2, 2>
+<0x7fbea2808480 - "zenith", 2, 2>
+<0x7fbe775633d0 - "tonyville", 3, 2>
+<0x7fbea2808a00 - "zuehl", 2, 2>
+<0x7fbea2808760 - "zayante", 3, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+for ny - 6.2566 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 3, 1>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2e7b0 - "nyack", 3, 2>
+<0x7fbe62e2e7b0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 1>
+<0x7fbe62e38eb0 - "nyack", 4, 1>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbe62e2e7b0 - "nyack", 4, 2>
+<0x7fbe62e2e7b0 - "nyack", 5, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 1>
+<0x7fbe62e38eb0 - "nyack", 5, 1>
+<0x7fbe62e38eb0 - "nyack", 6, 2>
+<0x7fbe62e2e7b0 - "nyack", 5, 2>
+<0x7fbe62e2e7b0 - "nyack", 6, 2>
+<0x7fbe62e38e90 - "nyes corner", 3, 2>
+<0x7fbe62e38e90 - "nyes corner", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 4, 2>
+<0x7fbe7f4c9280 - "nuckolls", 3, 1>
+<0x7fbe7f4c9280 - "nuckolls", 4, 2>
+<0x7fbe7f405550 - "nuckolls", 3, 2>
+<0x7fbe7f405550 - "nuckolls", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd86f0 - "noyack", 5, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c9280 - "nuckolls", 4, 1>
+<0x7fbe7f4c9280 - "nuckolls", 5, 2>
+<0x7fbe7f405550 - "nuckolls", 4, 2>
+<0x7fbe7f405550 - "nuckolls", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd86f0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe62dd86f0 - "noyack", 6, 2>
+<0x7fbe7f48da20 - "nyack", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48da20 - "nyack", 4, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbe4a6447a0 - "yucca valley", 3, 2>
+<0x7fbe4a8a5070 - "yznaga", 3, 2>
+<0x7fbe4a6447a0 - "yucca valley", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c9280 - "nuckolls", 3, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c9280 - "nuckolls", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbea2809c40 - "csar chvez", 3, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe9e6f8e30 - "uncertain", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544b2170 - "unicoi", 3, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe5fb7e980 - "wycliffe", 3, 1>
+<0x7fbe5fb7e980 - "wycliffe", 4, 2>
+<0x7fbe4a24a900 - "wycliffe", 3, 2>
+<0x7fbe4a24a900 - "wycliffe", 4, 2>
+<0x7fbea2808b80 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e980 - "wycliffe", 4, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 4, 2>
+<0x7fbe9e6f8e30 - "uncertain", 3, 1>
+<0x7fbe9e6f8e30 - "uncertain", 4, 2>
+<0x7fbe5fca8130 - "uncertain", 3, 2>
+<0x7fbe5fca8130 - "uncertain", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8e30 - "uncertain", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544b2170 - "unicoi", 3, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2170 - "unicoi", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbea2808d20 - "uc irvine", 3, 1>
+<0x7fbea2808d20 - "uc irvine", 4, 2>
+<0x7fbe71cf6ea0 - "uc irvine", 3, 2>
+<0x7fbe71cf6ea0 - "uc irvine", 4, 2>
+<0x7fbea2808b80 - "wytopitlock", 3, 1>
+<0x7fbe5fb7e980 - "wycliffe", 4, 1>
+<0x7fbe5fb7e980 - "wycliffe", 5, 2>
+<0x7fbe4a24a900 - "wycliffe", 4, 2>
+<0x7fbe4a24a900 - "wycliffe", 5, 2>
+<0x7fbea2808b80 - "wytopitlock", 4, 2>
+<0x7fbe5fb7e980 - "wycliffe", 5, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 4, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 4, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 5, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f8e30 - "uncertain", 4, 1>
+<0x7fbe9e6f8e30 - "uncertain", 5, 2>
+<0x7fbe5fca8130 - "uncertain", 4, 2>
+<0x7fbe5fca8130 - "uncertain", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8e30 - "uncertain", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2170 - "unicoi", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2170 - "unicoi", 5, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe442216a0 - "weycroft", 3, 2>
+<0x7fbe77563350 - "yancey", 3, 2>
+<0x7fbe775633d0 - "tonyville", 3, 2>
+<0x7fbea2808560 - "zachary - baker", 3, 2>
+<0x7fbea2808760 - "zayante", 3, 2>
+<0x7fbe442216a0 - "weycroft", 4, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe77563350 - "yancey", 4, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+for nyc - 1.1488 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 3, 1>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2e7b0 - "nyack", 3, 2>
+<0x7fbe62e2e7b0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 1>
+<0x7fbe62e38eb0 - "nyack", 4, 1>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbe62e2e7b0 - "nyack", 4, 2>
+<0x7fbe62e2e7b0 - "nyack", 5, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 1>
+<0x7fbe62e38eb0 - "nyack", 5, 1>
+<0x7fbe62e38eb0 - "nyack", 6, 2>
+<0x7fbe62e2e7b0 - "nyack", 5, 2>
+<0x7fbe62e2e7b0 - "nyack", 6, 2>
+<0x7fbe62e38e90 - "nyes corner", 3, 2>
+<0x7fbe62e38e90 - "nyes corner", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 4, 2>
+<0x7fbe7f4c9280 - "nuckolls", 3, 1>
+<0x7fbe7f4c9280 - "nuckolls", 4, 2>
+<0x7fbe7f405550 - "nuckolls", 3, 2>
+<0x7fbe7f405550 - "nuckolls", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd86f0 - "noyack", 5, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c9280 - "nuckolls", 4, 1>
+<0x7fbe7f4c9280 - "nuckolls", 5, 2>
+<0x7fbe7f405550 - "nuckolls", 4, 2>
+<0x7fbe7f405550 - "nuckolls", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd86f0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe62dd86f0 - "noyack", 6, 2>
+<0x7fbe7f48da20 - "nyack", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48da20 - "nyack", 4, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbe4a6447a0 - "yucca valley", 3, 2>
+<0x7fbe4a8a5070 - "yznaga", 3, 2>
+<0x7fbe4a6447a0 - "yucca valley", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c9280 - "nuckolls", 3, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c9280 - "nuckolls", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbea2809c40 - "csar chvez", 3, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe9e6f8e30 - "uncertain", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544b2170 - "unicoi", 3, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe5fb7e980 - "wycliffe", 3, 1>
+<0x7fbe5fb7e980 - "wycliffe", 4, 2>
+<0x7fbe4a24a900 - "wycliffe", 3, 2>
+<0x7fbe4a24a900 - "wycliffe", 4, 2>
+<0x7fbea2808b80 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e980 - "wycliffe", 4, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 4, 2>
+<0x7fbe9e6f8e30 - "uncertain", 3, 1>
+<0x7fbe9e6f8e30 - "uncertain", 4, 2>
+<0x7fbe5fca8130 - "uncertain", 3, 2>
+<0x7fbe5fca8130 - "uncertain", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8e30 - "uncertain", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544b2170 - "unicoi", 3, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2170 - "unicoi", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbea2808d20 - "uc irvine", 3, 1>
+<0x7fbea2808d20 - "uc irvine", 4, 2>
+<0x7fbe71cf6ea0 - "uc irvine", 3, 2>
+<0x7fbe71cf6ea0 - "uc irvine", 4, 2>
+<0x7fbea2808b80 - "wytopitlock", 3, 1>
+<0x7fbe5fb7e980 - "wycliffe", 4, 1>
+<0x7fbe5fb7e980 - "wycliffe", 5, 2>
+<0x7fbe4a24a900 - "wycliffe", 4, 2>
+<0x7fbe4a24a900 - "wycliffe", 5, 2>
+<0x7fbea2808b80 - "wytopitlock", 4, 2>
+<0x7fbe5fb7e980 - "wycliffe", 5, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 4, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 4, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 5, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f8e30 - "uncertain", 4, 1>
+<0x7fbe9e6f8e30 - "uncertain", 5, 2>
+<0x7fbe5fca8130 - "uncertain", 4, 2>
+<0x7fbe5fca8130 - "uncertain", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8e30 - "uncertain", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2170 - "unicoi", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2170 - "unicoi", 5, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe442216a0 - "weycroft", 3, 2>
+<0x7fbe77563350 - "yancey", 3, 2>
+<0x7fbe775633d0 - "tonyville", 3, 2>
+<0x7fbea2808560 - "zachary - baker", 3, 2>
+<0x7fbea2808760 - "zayante", 3, 2>
+<0x7fbe442216a0 - "weycroft", 4, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe77563350 - "yancey", 4, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+for nyc - 1.1588 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 3, 1>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2e7b0 - "nyack", 3, 2>
+<0x7fbe62e2e7b0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 1>
+<0x7fbe62e38eb0 - "nyack", 4, 1>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbe62e2e7b0 - "nyack", 4, 2>
+<0x7fbe62e2e7b0 - "nyack", 5, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 1>
+<0x7fbe62e38eb0 - "nyack", 5, 1>
+<0x7fbe62e38eb0 - "nyack", 6, 2>
+<0x7fbe62e2e7b0 - "nyack", 5, 2>
+<0x7fbe62e2e7b0 - "nyack", 6, 2>
+<0x7fbe62e38e90 - "nyes corner", 3, 2>
+<0x7fbe62e38e90 - "nyes corner", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 4, 2>
+<0x7fbe7f4c9280 - "nuckolls", 3, 1>
+<0x7fbe7f4c9280 - "nuckolls", 4, 2>
+<0x7fbe7f405550 - "nuckolls", 3, 2>
+<0x7fbe7f405550 - "nuckolls", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd86f0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd86f0 - "noyack", 5, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c9280 - "nuckolls", 4, 1>
+<0x7fbe7f4c9280 - "nuckolls", 5, 2>
+<0x7fbe7f405550 - "nuckolls", 4, 2>
+<0x7fbe7f405550 - "nuckolls", 5, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd86f0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe62dd86f0 - "noyack", 6, 2>
+<0x7fbe7f48da20 - "nyack", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48da20 - "nyack", 4, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbe4a6447a0 - "yucca valley", 3, 2>
+<0x7fbe4a8a5070 - "yznaga", 3, 2>
+<0x7fbe4a6447a0 - "yucca valley", 4, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e38eb0 - "nyack", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbe62e38eb0 - "nyack", 5, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c9280 - "nuckolls", 3, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c9280 - "nuckolls", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbea2809c40 - "csar chvez", 3, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe9e6f8e30 - "uncertain", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544b2170 - "unicoi", 3, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe5fb7e980 - "wycliffe", 3, 1>
+<0x7fbe5fb7e980 - "wycliffe", 4, 2>
+<0x7fbe4a24a900 - "wycliffe", 3, 2>
+<0x7fbe4a24a900 - "wycliffe", 4, 2>
+<0x7fbea2808b80 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e980 - "wycliffe", 4, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 4, 2>
+<0x7fbe9e6f8e30 - "uncertain", 3, 1>
+<0x7fbe9e6f8e30 - "uncertain", 4, 2>
+<0x7fbe5fca8130 - "uncertain", 3, 2>
+<0x7fbe5fca8130 - "uncertain", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8e30 - "uncertain", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544b2170 - "unicoi", 3, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2170 - "unicoi", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbea2808d20 - "uc irvine", 3, 1>
+<0x7fbea2808d20 - "uc irvine", 4, 2>
+<0x7fbe71cf6ea0 - "uc irvine", 3, 2>
+<0x7fbe71cf6ea0 - "uc irvine", 4, 2>
+<0x7fbea2808b80 - "wytopitlock", 3, 1>
+<0x7fbe5fb7e980 - "wycliffe", 4, 1>
+<0x7fbe5fb7e980 - "wycliffe", 5, 2>
+<0x7fbe4a24a900 - "wycliffe", 4, 2>
+<0x7fbe4a24a900 - "wycliffe", 5, 2>
+<0x7fbea2808b80 - "wytopitlock", 4, 2>
+<0x7fbe5fb7e980 - "wycliffe", 5, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 4, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 4, 2>
+<0x7fbe4a443bc0 - "wyncreek estates", 5, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f8e30 - "uncertain", 4, 1>
+<0x7fbe9e6f8e30 - "uncertain", 5, 2>
+<0x7fbe5fca8130 - "uncertain", 4, 2>
+<0x7fbe5fca8130 - "uncertain", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8e30 - "uncertain", 5, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2170 - "unicoi", 4, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2170 - "unicoi", 5, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe442216a0 - "weycroft", 3, 2>
+<0x7fbe77563350 - "yancey", 3, 2>
+<0x7fbe775633d0 - "tonyville", 3, 2>
+<0x7fbea2808560 - "zachary - baker", 3, 2>
+<0x7fbea2808760 - "zayante", 3, 2>
+<0x7fbe442216a0 - "weycroft", 4, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe77563350 - "yancey", 4, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+for nyc - 1.1458 seconds
+<0x7fbea2809d60 - "nyes corner", 1, 0>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 1, 1>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 1>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c9180 - "nyes corner", 1, 2>
+<0x7fbe7f4c9180 - "nyes corner", 2, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbea32ad000 - "zuehl", 1, 1>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbea32ad000 - "zuehl", 2, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbea2808b00 - "univeter", 1, 1>
+<0x7fbea2808b00 - "univeter", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 1, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbea2809c00 - "zuehl", 1, 1>
+<0x7fbea2808b00 - "univeter", 2, 1>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbea2809c00 - "zuehl", 2, 1>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbea2808480 - "zenith", 1, 2>
+<0x7fbea2808a00 - "zuehl", 1, 2>
+<0x7fbea2808480 - "zenith", 2, 2>
+<0x7fbea2808a00 - "zuehl", 2, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+for n - 11.3699 seconds
+<0x7fbea2809d60 - "nyes corner", 1, 0>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 1, 1>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 1>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c9180 - "nyes corner", 1, 2>
+<0x7fbe7f4c9180 - "nyes corner", 2, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbea32ad000 - "zuehl", 1, 1>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbea32ad000 - "zuehl", 2, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbea2808b00 - "univeter", 1, 1>
+<0x7fbea2808b00 - "univeter", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 1, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbea2809c00 - "zuehl", 1, 1>
+<0x7fbea2808b00 - "univeter", 2, 1>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbea2809c00 - "zuehl", 2, 1>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbea2808480 - "zenith", 1, 2>
+<0x7fbea2808a00 - "zuehl", 1, 2>
+<0x7fbea2808480 - "zenith", 2, 2>
+<0x7fbea2808a00 - "zuehl", 2, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+for n - 11.4200 seconds
+<0x7fbe62e2e5f0 - "nyes corner", 2, 0>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 2, 1>
+<0x7fbe62e2eb00 - "nyes corner", 3, 1>
+<0x7fbe62e2eb00 - "nyes corner", 4, 1>
+<0x7fbe62e38e90 - "nyes corner", 2, 2>
+<0x7fbe62e38e90 - "nyes corner", 3, 2>
+<0x7fbe62e38e90 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe7f4c93a0 - "noyack", 2, 1>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 2, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 1>
+<0x7fbe7f4c93a0 - "noyack", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 3, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c93a0 - "noyack", 4, 1>
+<0x7fbe7f4c93a0 - "noyack", 5, 2>
+<0x7fbe62dd8780 - "noyack", 4, 2>
+<0x7fbe62dd8780 - "noyack", 5, 2>
+<0x7fbe7f48db40 - "navy yard city", 2, 2>
+<0x7fbe7f4c9180 - "nyes corner", 2, 2>
+<0x7fbe7f48db40 - "navy yard city", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48db40 - "navy yard city", 4, 2>
+<0x7fbea280a020 - "yznaga", 2, 1>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbe4a8a5070 - "yznaga", 2, 2>
+<0x7fbe4a8a5070 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 3, 1>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2eb00 - "nyes corner", 3, 2>
+<0x7fbe62e2eb00 - "nyes corner", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 2>
+<0x7fbe7f4c93a0 - "noyack", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c93a0 - "noyack", 4, 2>
+<0x7fbea32ad000 - "zuehl", 2, 2>
+<0x7fbea280a020 - "yznaga", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e5f0 - "nyes corner", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 2, 1>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 2, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 2>
+<0x7fbe9e6f9070 - "snyderville", 3, 2>
+<0x7fbe544b2430 - "only", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbea2808b80 - "wytopitlock", 2, 1>
+<0x7fbea2808b80 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 2, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 1>
+<0x7fbe9e6f9070 - "snyderville", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 3, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f9070 - "snyderville", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2430 - "only", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbea2809c00 - "zuehl", 2, 1>
+<0x7fbea2808b80 - "wytopitlock", 3, 1>
+<0x7fbea2808b80 - "wytopitlock", 4, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 3, 2>
+<0x7fbe5fb7e7c0 - "wytopitlock", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f9070 - "snyderville", 4, 1>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe544d8bf0 - "snyderville", 4, 2>
+<0x7fbe544d8bf0 - "snyderville", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f9070 - "snyderville", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2430 - "only", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2430 - "only", 5, 2>
+<0x7fbe775633d0 - "tonyville", 2, 2>
+<0x7fbea2808760 - "zayante", 2, 2>
+<0x7fbea2808480 - "zenith", 2, 2>
+<0x7fbe775633d0 - "tonyville", 3, 2>
+<0x7fbea2808a00 - "zuehl", 2, 2>
+<0x7fbea2808760 - "zayante", 3, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe775633d0 - "tonyville", 4, 2>
+for ny - 6.3048 seconds
+<0x7fbe62e2e510 - "nez perce", 2, 0>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f10 - "nez perce", 2, 1>
+<0x7fbe7f3e2f10 - "nez perce", 3, 1>
+<0x7fbe7f3e2f10 - "nez perce", 4, 1>
+<0x7fbe7f3d9780 - "nez perce", 2, 2>
+<0x7fbe7f3d9780 - "nez perce", 3, 2>
+<0x7fbe7f3d9780 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f4c9400 - "nyes corner", 2, 1>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 2, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 1>
+<0x7fbe7f4c9400 - "nyes corner", 3, 1>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c9400 - "nyes corner", 4, 1>
+<0x7fbe7f4c9400 - "nyes corner", 5, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 5, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 2, 2>
+<0x7fbe7f4c9180 - "nyes corner", 2, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 4, 2>
+<0x7fbea2809fa0 - "ezzell hill", 2, 1>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbe9006d940 - "ezzell hill", 2, 2>
+<0x7fbe9006d940 - "ezzell hill", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 2, 1>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 2, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbea32ad000 - "zuehl", 2, 2>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 2, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 2, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 2, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 2, 1>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 2, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbea2808b00 - "univeter", 2, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 2, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbea2809c00 - "zuehl", 2, 1>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 1>
+<0x7fbea2808aa0 - "zephyrhills west", 4, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b2250 - "underwood hills", 5, 2>
+<0x7fbe77563250 - "zanesville", 2, 2>
+<0x7fbea28085c0 - "zuehl", 2, 2>
+<0x7fbea2808480 - "zenith", 2, 2>
+<0x7fbe77563250 - "zanesville", 3, 2>
+<0x7fbea2808a00 - "zuehl", 2, 2>
+<0x7fbea28085c0 - "zuehl", 3, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe77563250 - "zanesville", 4, 2>
+for ne - 7.4319 seconds
+<0x7fbe7f3e2f70 - "newville", 3, 0>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 3, 1>
+<0x7fbe7f3da1e0 - "newville", 4, 1>
+<0x7fbe7f3da1e0 - "newville", 5, 1>
+<0x7fbe7f03a630 - "newville", 3, 2>
+<0x7fbe7f03a630 - "newville", 4, 2>
+<0x7fbe7f03a630 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 1>
+<0x7fbe7f3e2f10 - "nez perce", 4, 1>
+<0x7fbe7f038d20 - "new windsor", 3, 2>
+<0x7fbe7f3d9780 - "nez perce", 3, 2>
+<0x7fbe7f038d20 - "new windsor", 4, 2>
+<0x7fbe7f3d9780 - "nez perce", 4, 2>
+<0x7fbe7f038d20 - "new windsor", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe7f4c91e0 - "nowthen", 3, 1>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 3, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 1>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c91e0 - "nowthen", 4, 1>
+<0x7fbe7f4c91e0 - "nowthen", 5, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 5, 2>
+<0x7fbe7f4c9400 - "nyes corner", 4, 1>
+<0x7fbe7f4c9400 - "nyes corner", 5, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 5, 2>
+<0x7fbe7f48dbe0 - "nutwood", 3, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48dbe0 - "nutwood", 4, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 4, 2>
+<0x7fbe9006dbe0 - "ewington", 3, 1>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbe8ffbf190 - "ewington", 3, 2>
+<0x7fbe8ffbf190 - "ewington", 4, 2>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbe9006cbd0 - "erwin", 3, 2>
+<0x7fbe9006d940 - "ezzell hill", 3, 2>
+<0x7fbe9006cbd0 - "erwin", 4, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f4c91e0 - "nowthen", 3, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbea2809e60 - "wytopitlock", 3, 2>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 3, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 3, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 2>
+<0x7fbe472e6e10 - "wewoka estates", 3, 2>
+<0x7fbe472e6e10 - "wewoka estates", 4, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 2>
+<0x7fbe5be66730 - "yeoward addition", 3, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbe5be66730 - "yeoward addition", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 3, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 3, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbea2808e60 - "uws", 3, 1>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfce0 - "uws", 3, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 5, 2>
+<0x7fbe472e6e10 - "wewoka estates", 4, 2>
+<0x7fbe472e6e10 - "wewoka estates", 5, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 4, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 5, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbe5be66730 - "yeoward addition", 4, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 4, 2>
+<0x7fbe5be66730 - "yeoward addition", 5, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 5, 2>
+<0x7fbe544b2250 - "underwood hills", 5, 2>
+<0x7fbe690c3df0 - "pinewood forest", 3, 2>
+<0x7fbe61f33f50 - "view ridge madison", 3, 2>
+<0x7fbe775634d0 - "sunwest", 3, 2>
+<0x7fbe77563250 - "zanesville", 3, 2>
+<0x7fbe690c3df0 - "pinewood forest", 4, 2>
+<0x7fbea28084e0 - "wewoka estates", 3, 2>
+<0x7fbea28085c0 - "zuehl", 3, 2>
+<0x7fbe61f33f50 - "view ridge madison", 4, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe775634d0 - "sunwest", 4, 2>
+<0x7fbe77563250 - "zanesville", 4, 2>
+<0x7fbe690c3df0 - "pinewood forest", 5, 2>
+for new - 2.1927 seconds
+<0x7fbe7f3e2f70 - "newville", 3, 0>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 3, 1>
+<0x7fbe7f3da1e0 - "newville", 4, 1>
+<0x7fbe7f3da1e0 - "newville", 5, 1>
+<0x7fbe7f03a630 - "newville", 3, 2>
+<0x7fbe7f03a630 - "newville", 4, 2>
+<0x7fbe7f03a630 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 1>
+<0x7fbe7f3e2f10 - "nez perce", 4, 1>
+<0x7fbe7f038d20 - "new windsor", 3, 2>
+<0x7fbe7f3d9780 - "nez perce", 3, 2>
+<0x7fbe7f038d20 - "new windsor", 4, 2>
+<0x7fbe7f3d9780 - "nez perce", 4, 2>
+<0x7fbe7f038d20 - "new windsor", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe7f4c91e0 - "nowthen", 3, 1>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 3, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 1>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c91e0 - "nowthen", 4, 1>
+<0x7fbe7f4c91e0 - "nowthen", 5, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 5, 2>
+<0x7fbe7f4c9400 - "nyes corner", 4, 1>
+<0x7fbe7f4c9400 - "nyes corner", 5, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 5, 2>
+<0x7fbe7f48dbe0 - "nutwood", 3, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48dbe0 - "nutwood", 4, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 4, 2>
+<0x7fbe9006dbe0 - "ewington", 3, 1>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbe8ffbf190 - "ewington", 3, 2>
+<0x7fbe8ffbf190 - "ewington", 4, 2>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbe9006cbd0 - "erwin", 3, 2>
+<0x7fbe9006d940 - "ezzell hill", 3, 2>
+<0x7fbe9006cbd0 - "erwin", 4, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f4c91e0 - "nowthen", 3, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbea2809e60 - "wytopitlock", 3, 2>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 3, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 3, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 2>
+<0x7fbe472e6e10 - "wewoka estates", 3, 2>
+<0x7fbe472e6e10 - "wewoka estates", 4, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 2>
+<0x7fbe5be66730 - "yeoward addition", 3, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbe5be66730 - "yeoward addition", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 3, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 3, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbea2808e60 - "uws", 3, 1>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfce0 - "uws", 3, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 5, 2>
+<0x7fbe472e6e10 - "wewoka estates", 4, 2>
+<0x7fbe472e6e10 - "wewoka estates", 5, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 4, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 5, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbe5be66730 - "yeoward addition", 4, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 4, 2>
+<0x7fbe5be66730 - "yeoward addition", 5, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 5, 2>
+<0x7fbe544b2250 - "underwood hills", 5, 2>
+<0x7fbe690c3df0 - "pinewood forest", 3, 2>
+<0x7fbe61f33f50 - "view ridge madison", 3, 2>
+<0x7fbe775634d0 - "sunwest", 3, 2>
+<0x7fbe77563250 - "zanesville", 3, 2>
+<0x7fbe690c3df0 - "pinewood forest", 4, 2>
+<0x7fbea28084e0 - "wewoka estates", 3, 2>
+<0x7fbea28085c0 - "zuehl", 3, 2>
+<0x7fbe61f33f50 - "view ridge madison", 4, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe775634d0 - "sunwest", 4, 2>
+<0x7fbe77563250 - "zanesville", 4, 2>
+<0x7fbe690c3df0 - "pinewood forest", 5, 2>
+for new - 2.2239 seconds
+<0x7fbe7f3e2f70 - "newville", 3, 0>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 3, 1>
+<0x7fbe7f3da1e0 - "newville", 4, 1>
+<0x7fbe7f3da1e0 - "newville", 5, 1>
+<0x7fbe7f03a630 - "newville", 3, 2>
+<0x7fbe7f03a630 - "newville", 4, 2>
+<0x7fbe7f03a630 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 1>
+<0x7fbe7f3e2f10 - "nez perce", 4, 1>
+<0x7fbe7f038d20 - "new windsor", 3, 2>
+<0x7fbe7f3d9780 - "nez perce", 3, 2>
+<0x7fbe7f038d20 - "new windsor", 4, 2>
+<0x7fbe7f3d9780 - "nez perce", 4, 2>
+<0x7fbe7f038d20 - "new windsor", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe7f4c91e0 - "nowthen", 3, 1>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 3, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 1>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 3, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 1>
+<0x7fbe7f4c91e0 - "nowthen", 4, 1>
+<0x7fbe7f4c91e0 - "nowthen", 5, 2>
+<0x7fbe7f4c8820 - "nowthen", 4, 2>
+<0x7fbe7f4c8820 - "nowthen", 5, 2>
+<0x7fbe7f4c9400 - "nyes corner", 4, 1>
+<0x7fbe7f4c9400 - "nyes corner", 5, 2>
+<0x7fbe62e38160 - "nyes corner", 4, 2>
+<0x7fbe62e38160 - "nyes corner", 5, 2>
+<0x7fbe7f48dbe0 - "nutwood", 3, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 3, 2>
+<0x7fbe7f4c9180 - "nyes corner", 3, 2>
+<0x7fbe7f48dbe0 - "nutwood", 4, 2>
+<0x7fbe7f48d9e0 - "nuremberg", 4, 2>
+<0x7fbe9006dbe0 - "ewington", 3, 1>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbe8ffbf190 - "ewington", 3, 2>
+<0x7fbe8ffbf190 - "ewington", 4, 2>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbe9006cbd0 - "erwin", 3, 2>
+<0x7fbe9006d940 - "ezzell hill", 3, 2>
+<0x7fbe9006cbd0 - "erwin", 4, 2>
+<0x7fbe62e2e510 - "nez perce", 3, 1>
+<0x7fbe7f3e2f70 - "newville", 4, 1>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3da1e0 - "newville", 4, 2>
+<0x7fbe7f3da1e0 - "newville", 5, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f3e2f10 - "nez perce", 3, 2>
+<0x7fbe7f3e2f10 - "nez perce", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe7f4c91e0 - "nowthen", 3, 2>
+<0x7fbe7f4c9400 - "nyes corner", 3, 2>
+<0x7fbe62e2e4f0 - "nyes corner", 3, 2>
+<0x7fbe7f4c91e0 - "nowthen", 4, 2>
+<0x7fbe7f4c9400 - "nyes corner", 4, 2>
+<0x7fbea2809e60 - "wytopitlock", 3, 2>
+<0x7fbea2809fa0 - "ezzell hill", 3, 2>
+<0x7fbe9006dbe0 - "ewington", 4, 2>
+<0x7fbea2809d60 - "nyes corner", 3, 2>
+<0x7fbe62e2e510 - "nez perce", 4, 2>
+<0x7fbe7f3e2f70 - "newville", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 3, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 3, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 2>
+<0x7fbe472e6e10 - "wewoka estates", 3, 2>
+<0x7fbe472e6e10 - "wewoka estates", 4, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 2>
+<0x7fbe5be66730 - "yeoward addition", 3, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbe5be66730 - "yeoward addition", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 3, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 3, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 3, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 3, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbea2808b00 - "univeter", 3, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 3, 2>
+<0x7fbe544b2250 - "underwood hills", 3, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbea2808e60 - "uws", 3, 1>
+<0x7fbea2808e60 - "uws", 4, 2>
+<0x7fbe65bcfce0 - "uws", 3, 2>
+<0x7fbe65bcfce0 - "uws", 4, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 3, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 4, 1>
+<0x7fbe7a49bab0 - "wewoka estates", 5, 2>
+<0x7fbe472e6e10 - "wewoka estates", 4, 2>
+<0x7fbe472e6e10 - "wewoka estates", 5, 2>
+<0x7fbea2808aa0 - "zephyrhills west", 4, 2>
+<0x7fbe7a49bab0 - "wewoka estates", 5, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 3, 2>
+<0x7fbe5be66730 - "yeoward addition", 4, 2>
+<0x7fbe7a49b9f0 - "zephyrhills west", 4, 2>
+<0x7fbe5be66730 - "yeoward addition", 5, 2>
+<0x7fbea2808b00 - "univeter", 3, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 4, 1>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe8f88a870 - "inwood forest", 4, 2>
+<0x7fbe8f88a870 - "inwood forest", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 4, 1>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe54488c40 - "snellville - grayson", 4, 2>
+<0x7fbe54488c40 - "snellville - grayson", 5, 2>
+<0x7fbea2808b00 - "univeter", 4, 2>
+<0x7fbe9e6f8ff0 - "inwood forest", 5, 2>
+<0x7fbe9e6f8e50 - "snellville - grayson", 5, 2>
+<0x7fbe9e6f8dd0 - "univeter", 3, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 4, 2>
+<0x7fbe544b2250 - "underwood hills", 4, 2>
+<0x7fbe9e6f8dd0 - "univeter", 4, 2>
+<0x7fbe544b22d0 - "snowshoe bay", 5, 2>
+<0x7fbe544b2250 - "underwood hills", 5, 2>
+<0x7fbe690c3df0 - "pinewood forest", 3, 2>
+<0x7fbe61f33f50 - "view ridge madison", 3, 2>
+<0x7fbe775634d0 - "sunwest", 3, 2>
+<0x7fbe77563250 - "zanesville", 3, 2>
+<0x7fbe690c3df0 - "pinewood forest", 4, 2>
+<0x7fbea28084e0 - "wewoka estates", 3, 2>
+<0x7fbea28085c0 - "zuehl", 3, 2>
+<0x7fbe61f33f50 - "view ridge madison", 4, 2>
+<0x7fbea2808480 - "zenith", 3, 2>
+<0x7fbe775634d0 - "sunwest", 4, 2>
+<0x7fbe77563250 - "zanesville", 4, 2>
+<0x7fbe690c3df0 - "pinewood forest", 5, 2>
+for new - 2.1858 seconds
