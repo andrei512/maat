@@ -73,17 +73,6 @@ void load_input(char *input_file) {
 	}
 
 	fclose(input);
-
-	// for (int i = 0; i < N; ++i) {
-	// 	dprintf("%s %s %s %s %s %s\n", 
-	// 		locations[i].id, 		
-	// 		locations[i].name, 		
-	// 		locations[i].precise_name, 		
-	// 		locations[i].layer, 		
-	// 		locations[i].state, 			
-	// 		locations[i].country
-	// 	);
-	// }
 }
 
 // ====================================================================================================
@@ -406,107 +395,6 @@ vi inclemental_search(char *query) {
 
 // ====================================================================================================
 
-#include "char_dist.h"
-
-int matrix[128][128];
-int distance(char *s1, char *s2) {
-    int x, y, s1len, s2len;
-    
-    s1len = strlen(s1);
-    s2len = strlen(s2);
-    
-    
-    matrix[0][0] = 0;
-
-    for (x = 1; x <= s2len; x++) {
-        matrix[x][0] = matrix[x-1][0] + 1;    	
-    }
-
-    for (y = 1; y <= s1len; y++) {
-        matrix[0][y] = matrix[0][y-1] + 1;    	
-    }
-
-    for (x = 1; x <= s2len; ++x) {
-        for (y = 1; y <= s1len; ++y) {
-            matrix[x][y] = matrix[x-1][y] + 10; // ignore a character from the first string
-
-            int tmp = matrix[x][y-1] + 10; // ignore a character from the second string
-            if (tmp < matrix[x][y]) {
-            	matrix[x][y] = tmp;
-            }
-
-            tmp = matrix[x-1][y-1] + cost_for(s1[y], s2[x]); // add the cost of matching based on keyboard
-
-            if (tmp < matrix[x][y]) {
-            	matrix[x][y] = tmp;
-            }
-        }
-    }
- 
-    return matrix[s2len][s1len];
-}
-
-void add_to_max_heap(int index, int dist, int *heap, int *heap_p, int size, int &count) {
-	++count;
-
-	heap[count] = index;
-	heap_p[count] = dist;
-
-	int idx = count;
-
-	while (idx > 1 and heap_p[idx>>1] < heap_p[idx]) {
-		register int tmp = heap[idx];
-		heap[idx] = heap[idx>>1];
-		heap[idx>>1] = tmp;
-
-		tmp = heap_p[idx];
-		heap_p[idx] = heap_p[idx>>1];
-		heap_p[idx>>1] = tmp;
-
-		idx >>= 1;
-	}	
-}
-
-void pop_max_heap(int *heap, int *heap_p, int size, int &count) {
-	if (count > 1) {
-		// add the last element on top of the heap and remove the max element
-		// TO DO: swap last element with first in order to obtain heapsort 
-		heap[1] = heap[count];
-		heap_p[1] = heap_p[count];
-		--count;
-
-		// go down until balanced
-		int idx = 1;
-		while (true) {
-			int max_p_idx = idx;
-			if (idx * 2 <= count and
-				heap_p[idx * 2] > heap_p[max_p_idx]) {
-				max_p_idx = idx * 2;
-			}
-
-			if (idx * 2 + 1 <= count and
-				heap_p[idx * 2 + 1] > heap_p[max_p_idx]) {
-				max_p_idx = idx * 2 + 1;
-			}
-
-			if (max_p_idx == idx) {
-				break ;
-			} else {
-				register int tmp = heap[idx];
-				heap[idx] = heap[max_p_idx];
-				heap[max_p_idx] = tmp;
-
-				tmp = heap_p[idx];
-				heap_p[idx] = heap_p[max_p_idx];
-				heap_p[max_p_idx] = tmp;
-
-				idx = max_p_idx;
-			}
-		}
-	} else {
-		count = 0;
-	}
-}
 
 char *string_from_location(char *buff, Location location) {	
 	sprintf(buff, "%s %s %s %s %s %s", 
@@ -520,68 +408,12 @@ char *string_from_location(char *buff, Location location) {
 	return buff;
 }
 
-int N_RET;
-char *names[128];
 FILE *fifo_pipe;
-
-bool print_info(NodeInfo *info) {
-	if (N_RET < 20) {
-		++N_RET;
-
-		fprintf(fifo_pipe, "%s***", locations[info->index].name);
-
-		return true;
-	}
-	return false;
-}
-
-void iterate_trie(TrieNode *node, char *prefix) {
-	// dprintf("iterate_trie - node = %u prefix = %s\n", node, prefix);
-	if (prefix != NULL and strlen(prefix) > 0) {
-		if (node->sons != NULL) {		
-			char first_character = prefix[0];
-
-			int son_index = -1;
-			for (int i = 0; i < node->n_sons; ++i) {
-				TrieNode son = node->sons[i];
-				if (son.character == first_character) {
-					son_index = i;
-					break;
-				}
-			}
-
-			if (son_index != -1) {
-				char *next_prefix = strlen(prefix) > 1 ? prefix + 1 : NULL;
-				iterate_trie(&(node->sons[son_index]), next_prefix);
-			}
-		}
-	} else {
-		if (node->info != NULL) {
-			NodeInfo *it = node->info;
-			while (it) {
-				if (print_info(it) == false) {
-					return ; 
-				}
-				it = it->next;
-			}
-		}
-
-		if (node->sons != NULL) {
-			for (int i = 0; i < node->n_sons; ++i) {
-				iterate_trie(&(node->sons[i]), NULL);	
-			}
-		}
-	}
-}
 
 void solve_for(char *string) {	
 	double start = clock();
 
 	fifo_pipe = fopen("fifo_pipe", "w");
-
-	// Old solutin bellow
-	// N_RET = 0;
-	// iterate_trie(root, string);
 
 	vi indexes = inclemental_search(string);
 	for (viit it = indexes.begin(); it != indexes.end(); ++it) {
