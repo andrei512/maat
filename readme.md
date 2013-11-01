@@ -2,6 +2,12 @@
 
 Query autocomplete webservice in C++ 
 
+## Requirements
+
+- Mac OS X or Linux - I have no intention to add support for [TempleOS](http://www.templeos.org/) or Windows 
+- ruby 1.9.3 or above
+
+
 ## Usage
 
 ./buid.sh - will generate code, compile and build the program
@@ -10,7 +16,16 @@ Query autocomplete webservice in C++
 
 Use the conversion script csv_to_input.rb to process the input given by sql dump
 
-./server.sh locations.in - will start a local server for the demo app
+In order to run the webservice localy
+
+```shell
+bundle install # this will install the necesary ruby gems
+./server.sh locations.in # will start a local server for the demo app
+```
+
+To test the app use Safari or Firefox to open [app/index.html](app/index.html)
+
+Chrome has some issues with AJAX from local files 
 
 
 ## Name origin
@@ -24,6 +39,7 @@ in egyptian mythology Ma'at was the goddess of truth, justice and harmony. She w
 - [IncNGTrie](http://www.vldb.org/pvldb/vol6/p373-xiao.pdf)
 - [edit distance](http://en.wikipedia.org/wiki/Levenshtein_distance)
 - heap
+- C++ STL [vector](http://www.cplusplus.com/reference/vector/vector/)
 
 
 ## Solution overview
