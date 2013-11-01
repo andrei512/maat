@@ -5,6 +5,7 @@ Query autocomplete webservice in C++
 ## Requirements
 
 - Mac OS X or Linux - I have no intention to add support for [TempleOS](http://www.templeos.org/) or Windows 
+- gcc 4.5 or above 
 - ruby 1.9.3 or above
 
 
