@@ -13,12 +13,12 @@ Use the conversion script csv_to_input.rb to process the input given by sql dump
 ./server.sh locations.in - will start a local server for the demo app
 
 
-## name origin
+## Name origin
 
 in egyptian mythology Ma'at was the goddess of truth, justice and harmony. She was associated with the balance of things on earth.
 
 
-## algoriths used:
+## Algorithms used
 
 - trie
 - [IncNGTrie](http://www.vldb.org/pvldb/vol6/p373-xiao.pdf)
@@ -59,10 +59,10 @@ Memory used ~2 GB RAM for 100.000 locations
 ### MAX_VARIATION >= 3
 
 The memory just explodes from here on 
-3 -> ~10 GB RAM
+
+for 3 the it eats up ~10 GB RAM
 
 A lot of random data appears for small queries as any 3 letter query is kind of the same for the algorithm
-
 
 ### Conclusion
 
@@ -70,8 +70,8 @@ The 2 variation solution seems to behave the best
 
 ## Problems to be solved
 
-[ ] prioritize locations and set some rules (Max 2 states, Max X Y, At least K ...)
-[ ] the location data provided is corupted - (id = 191454, name = "lazy y u")
+- Prioritize locations and set some rules (Max 2 states, Max X Y, At least K ...)
+- The location data provided is corupted - (id = 191454, name = "lazy y u")
 
 
 
