@@ -37,9 +37,8 @@ in egyptian mythology Ma'at was the goddess of truth, justice and harmony. She w
 ## Algorithms used
 
 - trie
-- [IncNGTrie](http://www.vldb.org/pvldb/vol6/p373-xiao.pdf)
 - [edit distance](http://en.wikipedia.org/wiki/Levenshtein_distance)
-- heap
+- [IncNGTrie](http://www.vldb.org/pvldb/vol6/p373-xiao.pdf)
 - C++ STL [vector](http://www.cplusplus.com/reference/vector/vector/)
 
 
