@@ -51,7 +51,18 @@ class AutocompleteApp
 	request = Rack::Request.new env
 	puts "ENV = #{JSON.pretty_generate(env)}\n\n"
 	puts request.params
-  	input = request.params['query'] || ""
+
+  	input = request.params['query'] 
+
+  	request_path = env['REQUEST_PATH']
+  	useless, first, second = request_path.split("/")
+  	if first == "get" 
+  		input ||= second 
+  	end
+
+  	input ||= ""
+
+  	puts "first = #{first} second = #{second}"
 
   	
     [200, {"Content-Type" => "application/json"}, 

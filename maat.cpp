@@ -422,21 +422,8 @@ void solve_for(char *string) {
 
 	fifo_pipe = fopen("fifo_pipe", "w");
 
-	vi indexes;
-	if (strlen(string) > 2) {
-		indexes = inclemental_search(string);
-	} else if (strlen(string) == 2){
-		int i = char_map[(int)string[0]];
-		int j = char_map[(int)string[1]];
-		if (i != -1 and j != -1) {
-			indexes = preprocessed2[i][j];
-		}
-	} else if (strlen(string) == 1){
-		int i = char_map[(int)string[0]];
-		if (i != -1) {
-			indexes = preprocessed1[i];
-		}
-	}
+	vi indexes = inclemental_search(string);
+	
 	int cnt = 0;
 	for (viit it = indexes.begin(); it != indexes.end() and cnt < 20; ++it, ++cnt) {
 		fprintf(fifo_pipe, "%s,%s,%s***", locations[*it].name, locations[*it].precise_name, locations[*it].id);
