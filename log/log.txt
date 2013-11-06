@@ -12069,3 +12069,12 @@ the trie has 2974805 nodes
 the trie has 2974805 nodes
 the trie has 2974805 nodes
 for new - 0.0358 seconds
+the trie has 2974805 nodes
+for new%20y - 0.0001 seconds
+for new%20y - 0.0001 seconds
+for new%20y - 0.0001 seconds
+for new - 0.0379 seconds
+for new%20y - 0.0001 seconds
+the trie has 2974805 nodes
+the trie has 2974805 nodes
+for new y - 0.0114 seconds

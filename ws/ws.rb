@@ -45,6 +45,7 @@ end
 
 require 'rack'
 require 'json'
+require 'cgi'
 
 class AutocompleteApp
   def call env
@@ -56,8 +57,9 @@ class AutocompleteApp
 
   	request_path = env['REQUEST_PATH']
   	useless, first, second = request_path.split("/")
+  	second = CGI.unescape(second) if second
   	if first == "get" 
-  		input ||= second 
+  		input ||= second
   	end
 
   	input ||= ""
