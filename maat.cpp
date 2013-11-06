@@ -357,7 +357,7 @@ vi inclemental_search(char *query) {
 		return vi();
 	}
 
-	va A = expand_state(*new_active_state(root, 0, query_length > 1 ? 0 : MAX_VARIATION));
+	va A = expand_state(*new_active_state(root, 0, query_length > 2 ? 0 : MAX_VARIATION));
 
 	for (int v = 0; v < query_length; ++v) {
 		va A_ = va();
@@ -532,7 +532,7 @@ void preprocess() {
 		}
 		dprintf(".");
 	}
-	dprintf(".done\n");
+	dnprintf(".done\n");
 }
 
 
@@ -545,7 +545,7 @@ int main(int argc, char **args) {
 
 	load_input(args[1]);
 	build_trie();
-	preprocess();
+	// preprocess();
 
 	// demo_query();
 
