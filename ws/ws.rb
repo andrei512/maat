@@ -59,7 +59,7 @@ class AutocompleteApp
   	useless, first, second = request_path.split("/")
   	second = CGI.unescape(second) if second
   	if first == "get" 
-  		input ||= second
+  		input = second
   	end
 
   	input ||= ""
