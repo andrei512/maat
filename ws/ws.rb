@@ -16,11 +16,30 @@ child = fork {
 def query input	
 	input.strip!
 	if input.length > 0
+		start_time = Time.now
+
 		@@w.puts input
 		response = `cat fifo_pipe`	
-		response.split('***')
+
+		end_time = Time.now
+
+		results = response.split('***').map { |result|
+			Hash[[:name, :pretty_name, :id].zip(result.split(','))]
+		}
+
+		{
+			options: {},
+			driver: "maat",
+			timer: end_time - start_time,
+			results: results
+		}
 	else
-		return []
+		return {
+			options: {},
+			driver: "maat",
+			timer: 0.001,
+			results: []
+		}
 	end
 end
 

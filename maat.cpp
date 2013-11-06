@@ -26,6 +26,7 @@ Location *locations;
 char buffer[128];
 
 
+
 void load_input(char *input_file) {
 	FILE *input = fopen(input_file, "r");
 
@@ -210,7 +211,7 @@ void add_to_trie(TrieNode *node, char *string, int index) {
 }
 
 // O(|string| ^ MAX_VARIATION)
-const int MAX_VARIATION = 2;
+const int MAX_VARIATION = 1;
 void add_to_trie_with_deletition_variants(TrieNode *node, char *string, int index, int variation) {
 	node->index = index;
 	if (strlen(string) > 0) {	
@@ -241,6 +242,7 @@ bool valid_string(char *string) {
 	}
 	return true;
 }
+
 
 // O(N * |string|)
 void build_trie() {
@@ -280,6 +282,10 @@ bool compare_state(const ActiveState &a, const ActiveState &b) {
 // int vector and iterator
 typedef vector<int> vi;
 typedef vector<int>::iterator viit;
+
+vi preprocessed1[50];
+vi preprocessed2[50][50];
+
 
 char *string_from_state(ActiveState state) {
 	sprintf(buffer, "<%p - \"%s\", %d, %d>", state.node, locations[state.node->index].name, (int)state.cursor, (int)state.incoordonation);
@@ -351,7 +357,7 @@ vi inclemental_search(char *query) {
 		return vi();
 	}
 
-	va A = expand_state(*new_active_state(root, 0, 0));
+	va A = expand_state(*new_active_state(root, 0, query_length > 1 ? 0 : MAX_VARIATION));
 
 	for (int v = 0; v < query_length; ++v) {
 		va A_ = va();
@@ -373,9 +379,9 @@ vi inclemental_search(char *query) {
 	// a bit of magik :)
 	// sort(A.begin(), A.end(), compare_state);
 
-	for (vait it = A.begin(); it != A.end(); ++it) {
-		dprintf("%s\n", string_from_state(*it));
-	}
+	// for (vait it = A.begin(); it != A.end(); ++it) {
+	// 	dprintf("%s\n", string_from_state(*it));
+	// }
 
 	vi ret = vi();
 
@@ -385,10 +391,11 @@ vi inclemental_search(char *query) {
 		vi indexes_from_state = indexes_from_node(state.node);
 
 		ret.insert(ret.end(), indexes_from_state.begin(), indexes_from_state.end());
-
-		sort(ret.begin(), ret.end());
-		ret.erase(unique(ret.begin(), ret.end()), ret.end());
 	}
+
+	sort(ret.begin(), ret.end());
+	ret.erase(unique(ret.begin(), ret.end()), ret.end());
+
 
 	return ret;
 }
@@ -415,9 +422,24 @@ void solve_for(char *string) {
 
 	fifo_pipe = fopen("fifo_pipe", "w");
 
-	vi indexes = inclemental_search(string);
-	for (viit it = indexes.begin(); it != indexes.end(); ++it) {
-		fprintf(fifo_pipe, "%s***", locations[*it].name);
+	vi indexes;
+	if (strlen(string) > 2) {
+		indexes = inclemental_search(string);
+	} else if (strlen(string) == 2){
+		int i = char_map[(int)string[0]];
+		int j = char_map[(int)string[1]];
+		if (i != -1 and j != -1) {
+			indexes = preprocessed2[i][j];
+		}
+	} else if (strlen(string) == 1){
+		int i = char_map[(int)string[0]];
+		if (i != -1) {
+			indexes = preprocessed1[i];
+		}
+	}
+	int cnt = 0;
+	for (viit it = indexes.begin(); it != indexes.end() and cnt < 20; ++it, ++cnt) {
+		fprintf(fifo_pipe, "%s,%s,%s***", locations[*it].name, locations[*it].precise_name, locations[*it].id);
 	}
 
 	fclose(fifo_pipe);
@@ -471,6 +493,49 @@ void demo_query() {
 	}
 }
 
+void preprocess() {
+	dprintf("preprocessing.");
+
+	char string[10] = {0};
+	for (int i = 0; i < 256; ++i) {
+		if (char_map[i] == -1) {
+			continue;
+		}
+		string[0] = i;
+
+		vi tmp;
+		vi ret = inclemental_search(string);
+
+		for (int it = 0; it < ret.size() and it < 20; ++it) {
+			tmp.push_back(ret[it]);
+		}
+
+		preprocessed1[char_map[i]] = tmp;
+
+		for (int j = 0; j < 256; ++j) {
+			if (char_map[j] == -1) {
+				continue;
+			}
+			string[1] = j;
+
+
+			vi tmp2;
+			vi ret2 = inclemental_search(string);
+
+			for (int it = 0; it < ret2.size() and it < 20; ++it) {
+				tmp2.push_back(ret2[it]);
+			}
+
+			preprocessed2[char_map[i]][char_map[j]] = tmp2;
+
+			string[1] = 0;
+		}
+		dprintf(".");
+	}
+	dprintf(".done\n");
+}
+
+
 int main(int argc, char **args) {
 
 	if (argc < 2) {
@@ -480,6 +545,7 @@ int main(int argc, char **args) {
 
 	load_input(args[1]);
 	build_trie();
+	preprocess();
 
 	// demo_query();
 
