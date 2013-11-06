@@ -444,8 +444,8 @@ void solve_for(char *string) {
 inline void query_loop() {
 	char string[100];
 	while (true) {
-		// while (fgets(string, 100, stdin) == NULL);
-		fgets(string, 100, stdin);
+		while (fgets(string, 100, stdin) == NULL);
+		// fgets(string, 100, stdin);
 
 		// remove \n
 		string[strlen(string) - 1] = 0;
