@@ -532,7 +532,7 @@ void preprocess() {
 		}
 		dprintf(".");
 	}
-	dnprintf(".done\n");
+	dprintf(".done\n");
 }
 
 
